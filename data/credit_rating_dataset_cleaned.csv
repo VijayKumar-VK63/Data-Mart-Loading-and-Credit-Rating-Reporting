@@ -1,0 +1,1001 @@
+Security_Id,Security_Name,Vendor_Id,Vendor_Name,Vendor_Code,Source_Feed_Id,Rating_Type,Exchange_Code,Country,Sector,Rating_Date,Rating_Code,Rating_Score,Rating_Reason,Is_Active,Rating_Year,Rating_Month,Effective_Date
+SEC0068,Moran-Stanley,10,Moody'S,MDY,7,Short Term,BSE,Usa,Energy,2022-10-28,AA-,7,Improved financial stability,False,2022,10,2022-01-01
+SEC0021,Jones-Leonard,20,S&P,SNP,9,Recovery,NYSE,Germany,Healthcare,2022-02-23,AAA,10,Stable outlook maintained,True,2022,2,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-11-03,BB,3,Stable outlook maintained,False,2022,11,2022-01-01
+SEC0009,Anderson LLC,20,S&P,SNP,9,Recovery,BSE,Uk,Energy,2022-03-09,B,2,Decreased liquidity ratio,False,2022,3,2022-03-09
+SEC0080,Rios-Bates,30,Fitch,FTC,11,Short Term,NYSE,Singapore,Automotive,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",30,Fitch,FTC,11,Viability,BSE,Uk,Energy,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0009,Anderson LLC,10,Moody'S,MDY,7,Recovery,BSE,Uk,Energy,2023-01-18,AA+,9,Improved financial stability,True,2023,1,2022-01-01
+SEC0048,Clay Ltd,10,Moody'S,MDY,7,Long Term,BSE,Singapore,Automotive,2023-01-18,A+,6,Stable outlook maintained,False,2023,1,2022-01-01
+SEC0061,Garcia-Garcia,30,Fitch,FTC,11,Viability,BSE,Germany,Automotive,2023-03-13,CCC,1,Decreased liquidity ratio,False,2023,3,2022-01-01
+SEC0059,Bailey-Larson,20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-11-27,AA-,7,Decreased liquidity ratio,False,2022,11,2022-01-01
+SEC0015,Moore PLC,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-01-01,AA,8,Improved financial stability,False,2022,1,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",10,Moody'S,MDY,7,Viability,NYSE,Singapore,Finance,2025-05-01,AA-,7,Improved financial stability,True,2025,5,2022-01-01
+SEC0064,Barnes PLC,10,Moody'S,MDY,7,Recovery,NSE,Usa,Finance,2022-08-13,AA-,7,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0026,Hernandez Inc,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2022-06-02,AA,8,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0091,Freeman Group,30,Fitch,FTC,11,Long Term,BSE,Usa,Technology,2022-05-03,AA+,9,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",20,S&P,SNP,9,Short Term,NSE,Uk,Automotive,2024-10-13,B,2,Downgraded after debt increase,True,2024,10,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",10,Moody'S,MDY,7,Viability,NYSE,Singapore,Finance,2024-02-20,A,5,Improved financial stability,False,2024,2,2022-01-01
+SEC0011,Gibson-Moore,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2022-05-18,AA-,7,Improved financial stability,False,2022,5,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",20,S&P,SNP,9,Viability,LON,Uk,Finance,2023-01-16,AA,8,Improved financial stability,True,2023,1,2022-01-01
+SEC0035,Moran Inc,20,S&P,SNP,9,Short Term,NYSE,India,Technology,2023-11-12,CCC,1,Stable outlook maintained,True,2023,11,2022-01-01
+SEC0019,Adams PLC,20,S&P,SNP,9,Long Term,LON,India,Healthcare,2022-06-05,AA+,9,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0030,Lamb Group,30,Fitch,FTC,11,Recovery,SGX,Usa,Finance,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0067,Poole LLC,30,Fitch,FTC,11,Recovery,SGX,Uk,Technology,2024-07-22,A,5,Upgraded due to strong quarterly earnings,False,2024,7,2022-01-01
+SEC0041,Hansen LLC,10,Moody'S,MDY,7,Viability,NYSE,Singapore,Technology,2023-05-28,A+,6,Upgraded due to strong quarterly earnings,False,2023,5,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",10,Moody'S,MDY,7,Recovery,NSE,Uk,Automotive,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0036,Myers Inc,10,Moody'S,MDY,7,Viability,BSE,Singapore,Technology,2023-01-16,A+,6,Upgraded due to strong quarterly earnings,False,2023,1,2022-01-01
+SEC0053,Brandt-Harper,30,Fitch,FTC,11,Long Term,LON,Germany,Healthcare,2023-11-12,AA,8,Upgraded due to strong quarterly earnings,True,2023,11,2022-01-01
+SEC0030,Lamb Group,10,Moody'S,MDY,7,Recovery,SGX,Usa,Finance,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0085,Wilson-Robbins,20,S&P,SNP,9,Recovery,BSE,Germany,Automotive,2022-02-05,AA,8,Downgraded after debt increase,False,2022,2,2022-01-01
+SEC0035,Moran Inc,20,S&P,SNP,9,Short Term,NYSE,India,Technology,2022-10-09,BB,3,Improved financial stability,False,2022,10,2022-01-01
+SEC0040,Fox Group,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2024-05-23,AA+,9,Stable outlook maintained,False,2024,5,2022-01-01
+SEC0026,Hernandez Inc,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-06-19,BBB,4,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0046,Macdonald-Chavez,10,Moody'S,MDY,7,Long Term,SGX,Germany,Healthcare,2022-01-01,A+,6,Improved financial stability,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2023-07-15,AAA,10,Improved financial stability,True,2023,7,2022-01-01
+SEC0043,Dillon PLC,20,S&P,SNP,9,Recovery,BSE,India,Healthcare,2023-03-13,AA+,9,Upgraded due to strong quarterly earnings,True,2023,3,2022-01-01
+SEC0096,Collins PLC,20,S&P,SNP,9,Short Term,SGX,Singapore,Finance,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0003,"Clark, Martin and Wright",30,Fitch,FTC,11,Short Term,NYSE,Singapore,Energy,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0048,Clay Ltd,10,Moody'S,MDY,7,Long Term,BSE,Singapore,Automotive,2022-02-22,AA-,7,Improved financial stability,False,2022,2,2022-01-01
+SEC0043,Dillon PLC,30,Fitch,FTC,11,Recovery,BSE,India,Healthcare,2022-02-19,A,5,Stable outlook maintained,True,2022,2,2022-01-01
+SEC0007,James and Sons,20,S&P,SNP,9,Viability,SGX,Singapore,Energy,2024-08-10,BB,3,Downgraded after debt increase,True,2024,8,2022-01-01
+SEC0060,Kelly Group,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-06-19,AA-,7,Improved financial stability,False,2022,6,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",20,S&P,SNP,9,Short Term,BSE,Uk,Automotive,2022-01-01,AAA,10,Improved financial stability,False,2022,1,2022-01-01
+SEC0023,Brown-Lloyd,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2022-09-18,CCC,1,Downgraded after debt increase,True,2022,9,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",20,S&P,SNP,9,Recovery,NYSE,Uk,Healthcare,2022-10-11,AAA,10,Upgraded due to strong quarterly earnings,False,2022,10,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",30,Fitch,FTC,11,Viability,LON,Uk,Finance,2024-05-02,AA,8,Upgraded due to strong quarterly earnings,False,2024,5,2022-10-04
+SEC0070,Matthews LLC,30,Fitch,FTC,11,Long Term,LON,India,Automotive,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0096,Collins PLC,30,Fitch,FTC,11,Short Term,SGX,Singapore,Finance,2022-01-01,A+,6,Improved financial stability,False,2022,1,2022-01-01
+SEC0019,Adams PLC,30,Fitch,FTC,11,Long Term,LON,India,Healthcare,2024-07-31,AAA,10,Stable outlook maintained,True,2024,7,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",30,Fitch,FTC,11,Long Term,LON,India,Finance,2024-05-18,A,5,Decreased liquidity ratio,True,2024,5,2022-01-01
+SEC0052,Gilmore and Sons,30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-01-01,AA,8,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-10-16,A+,6,Improved financial stability,True,2022,10,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",10,Moody'S,MDY,7,Long Term,LON,India,Finance,2022-11-09,AA,8,Upgraded due to strong quarterly earnings,False,2022,11,2022-01-01
+SEC0041,Hansen LLC,30,Fitch,FTC,11,Viability,NYSE,Singapore,Technology,2022-06-03,BB,3,Stable outlook maintained,True,2022,6,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2023-02-21,A,5,Downgraded after debt increase,False,2023,2,2022-01-01
+SEC0033,Watson-Chang,20,S&P,SNP,9,Recovery,BSE,Singapore,Technology,2022-04-21,A,5,Decreased liquidity ratio,True,2022,4,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",20,S&P,SNP,9,Short Term,SGX,Singapore,Automotive,2022-02-13,A,5,Stable outlook maintained,False,2022,2,2022-01-01
+SEC0056,Smith-Galloway,30,Fitch,FTC,11,Long Term,LON,Singapore,Healthcare,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0036,Myers Inc,30,Fitch,FTC,11,Viability,BSE,Singapore,Technology,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0072,Butler-Newton,10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2023-03-25,AA,8,Decreased liquidity ratio,False,2023,3,2022-01-01
+SEC0071,Rogers-Nunez,20,S&P,SNP,9,Long Term,NSE,Uk,Automotive,2023-09-23,B,2,Stable outlook maintained,False,2023,9,2022-01-01
+SEC0045,Jones-Leach,20,S&P,SNP,9,Short Term,NSE,India,Energy,2022-11-09,AA,8,Improved financial stability,True,2022,11,2022-08-10
+SEC0011,Gibson-Moore,30,Fitch,FTC,11,Long Term,BSE,Usa,Technology,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0050,Matthews Inc,20,S&P,SNP,9,Recovery,SGX,Germany,Energy,2022-05-15,BB,3,Decreased liquidity ratio,True,2022,5,2022-01-01
+SEC0029,"Rice, Perez and Calderon",20,S&P,SNP,9,Long Term,NSE,India,Technology,2022-01-01,AA,8,Improved financial stability,False,2022,1,2022-01-01
+SEC0050,Matthews Inc,20,S&P,SNP,9,Recovery,SGX,Germany,Energy,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0047,Garcia-Patrick,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0033,Watson-Chang,10,Moody'S,MDY,7,Recovery,BSE,Singapore,Technology,2022-01-01,B,2,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0073,"Davis, Knox and Hall",20,S&P,SNP,9,Recovery,BSE,Singapore,Healthcare,2023-10-29,B,2,Decreased liquidity ratio,False,2023,10,2022-03-30
+SEC0092,"Mcfarland, Andersen and Foster",20,S&P,SNP,9,Short Term,SGX,Singapore,Automotive,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0006,"Wilson, Rich and Miller",30,Fitch,FTC,11,Short Term,NYSE,Germany,Automotive,2022-06-04,BB,3,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0064,Barnes PLC,20,S&P,SNP,9,Recovery,NSE,Usa,Finance,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0027,Patterson-Nguyen,20,S&P,SNP,9,Short Term,SGX,Germany,Automotive,2024-02-29,A,5,Decreased liquidity ratio,False,2024,2,2022-01-01
+SEC0067,Poole LLC,10,Moody'S,MDY,7,Recovery,SGX,Uk,Technology,2023-10-20,A,5,Downgraded after debt increase,True,2023,10,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",20,S&P,SNP,9,Long Term,NSE,Singapore,Technology,2024-08-15,BB,3,Upgraded due to strong quarterly earnings,False,2024,8,2022-01-01
+SEC0028,"Black, Harper and Cox",30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2022-12-20,A+,6,Decreased liquidity ratio,True,2022,12,2022-01-01
+SEC0003,"Clark, Martin and Wright",10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Energy,2022-07-11,BBB,4,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0018,Herrera-Walters,30,Fitch,FTC,11,Long Term,BSE,India,Automotive,2024-08-15,AAA,10,Upgraded due to strong quarterly earnings,False,2024,8,2022-01-01
+SEC0089,Trevino-Wilson,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-01-01,A,5,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0047,Garcia-Patrick,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-06-09,AAA,10,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0048,Clay Ltd,30,Fitch,FTC,11,Long Term,BSE,Singapore,Automotive,2022-05-21,BBB,4,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0078,Meadows-Christensen,30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2023-03-03,A+,6,Improved financial stability,False,2023,3,2022-01-01
+SEC0033,Watson-Chang,20,S&P,SNP,9,Recovery,BSE,Singapore,Technology,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0034,Booker-Elliott,10,Moody'S,MDY,7,Recovery,NSE,Usa,Healthcare,2022-07-14,AAA,10,Upgraded due to strong quarterly earnings,True,2022,7,2022-01-01
+SEC0011,Gibson-Moore,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2024-11-07,AA,8,Decreased liquidity ratio,True,2024,11,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",20,S&P,SNP,9,Long Term,SGX,Uk,Energy,2022-10-22,A,5,Improved financial stability,False,2022,10,2022-10-22
+SEC0067,Poole LLC,10,Moody'S,MDY,7,Recovery,SGX,Uk,Technology,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0017,Brown Inc,30,Fitch,FTC,11,Viability,NSE,Germany,Healthcare,2022-05-25,AA+,9,Improved financial stability,True,2022,5,2022-01-01
+SEC0073,"Davis, Knox and Hall",10,Moody'S,MDY,7,Recovery,BSE,Singapore,Healthcare,2022-01-01,AA-,7,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",30,Fitch,FTC,11,Recovery,NYSE,Uk,Healthcare,2022-07-03,BBB,4,Decreased liquidity ratio,False,2022,7,2022-01-01
+SEC0035,Moran Inc,30,Fitch,FTC,11,Short Term,NYSE,India,Technology,2022-01-01,CCC,1,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0064,Barnes PLC,30,Fitch,FTC,11,Recovery,NSE,Usa,Finance,2022-10-26,B,2,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0037,"Hill, Rios and Bryant",20,S&P,SNP,9,Recovery,NSE,Uk,Technology,2022-01-01,CCC,1,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0035,Moran Inc,20,S&P,SNP,9,Short Term,NYSE,India,Technology,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",20,S&P,SNP,9,Short Term,NSE,Uk,Automotive,2022-10-04,B,2,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0049,West-Mullen,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-09-12,AAA,10,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0070,Matthews LLC,20,S&P,SNP,9,Long Term,LON,India,Automotive,2024-01-30,AA-,7,Improved financial stability,False,2024,1,2022-01-01
+SEC0031,Moore-Bullock,10,Moody'S,MDY,7,Long Term,SGX,India,Energy,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0008,Goodwin-Donaldson,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2023-01-16,AAA,10,Improved financial stability,True,2023,1,2022-01-01
+SEC0002,Gonzalez-Garza,10,Moody'S,MDY,7,Long Term,NSE,Usa,Energy,2022-12-06,A+,6,Improved financial stability,False,2022,12,2022-01-01
+SEC0052,Gilmore and Sons,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2023-01-06,AA,8,Decreased liquidity ratio,True,2023,1,2022-01-01
+SEC0053,Brandt-Harper,30,Fitch,FTC,11,Long Term,LON,Germany,Healthcare,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",10,Moody'S,MDY,7,Short Term,BSE,Uk,Automotive,2022-01-01,CCC,1,Improved financial stability,False,2022,1,2022-01-01
+SEC0075,Foster-Adams,30,Fitch,FTC,11,Recovery,BSE,Germany,Healthcare,2022-03-06,A+,6,Improved financial stability,True,2022,3,2022-01-01
+SEC0070,Matthews LLC,20,S&P,SNP,9,Long Term,LON,India,Automotive,2023-02-19,AAA,10,Improved financial stability,False,2023,2,2022-01-01
+SEC0020,Smith Ltd,30,Fitch,FTC,11,Viability,BSE,Usa,Finance,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0096,Collins PLC,20,S&P,SNP,9,Short Term,SGX,Singapore,Finance,2022-03-04,BBB,4,Improved financial stability,False,2022,3,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-01-01,AA-,7,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0051,Rogers LLC,10,Moody'S,MDY,7,Viability,BSE,Usa,Automotive,2022-08-07,BB,3,Stable outlook maintained,True,2022,8,2022-01-01
+SEC0009,Anderson LLC,30,Fitch,FTC,11,Recovery,BSE,Uk,Energy,2022-12-03,B,2,Decreased liquidity ratio,True,2022,12,2022-01-01
+SEC0008,Goodwin-Donaldson,30,Fitch,FTC,11,Short Term,SGX,Singapore,Healthcare,2022-11-25,CCC,1,Stable outlook maintained,True,2022,11,2022-01-01
+SEC0074,Moyer PLC,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2022-01-01,AAA,10,Improved financial stability,False,2022,1,2022-01-01
+SEC0031,Moore-Bullock,10,Moody'S,MDY,7,Long Term,SGX,India,Energy,2023-10-14,B,2,Stable outlook maintained,True,2023,10,2022-01-01
+SEC0056,Smith-Galloway,10,Moody'S,MDY,7,Long Term,LON,Singapore,Healthcare,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0071,Rogers-Nunez,30,Fitch,FTC,11,Long Term,NSE,Uk,Automotive,2022-12-02,CCC,1,Upgraded due to strong quarterly earnings,True,2022,12,2022-01-01
+SEC0024,Hardy-Sims,20,S&P,SNP,9,Long Term,SGX,Germany,Energy,2022-01-01,CCC,1,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",20,S&P,SNP,9,Viability,LON,Uk,Finance,2022-11-14,CCC,1,Upgraded due to strong quarterly earnings,False,2022,11,2022-01-01
+SEC0040,Fox Group,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2022-02-10,A,5,Decreased liquidity ratio,False,2022,2,2022-01-01
+SEC0018,Herrera-Walters,20,S&P,SNP,9,Long Term,BSE,India,Automotive,2022-01-01,CCC,1,Improved financial stability,False,2022,1,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",30,Fitch,FTC,11,Viability,NYSE,Singapore,Finance,2023-11-10,AA-,7,Downgraded after debt increase,False,2023,11,2022-01-01
+SEC0068,Moran-Stanley,30,Fitch,FTC,11,Short Term,BSE,Usa,Energy,2022-06-18,AA+,9,Stable outlook maintained,False,2022,6,2022-01-01
+SEC0059,Bailey-Larson,10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2022-02-21,A+,6,Improved financial stability,False,2022,2,2022-01-01
+SEC0044,Bishop-Sutton,30,Fitch,FTC,11,Short Term,SGX,Usa,Healthcare,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0089,Trevino-Wilson,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-01-01,BB,3,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",20,S&P,SNP,9,Recovery,LON,Singapore,Finance,2022-01-01,CCC,1,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0063,Wood-Stewart,30,Fitch,FTC,11,Short Term,NSE,Singapore,Energy,2022-09-28,AA,8,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0024,Hardy-Sims,30,Fitch,FTC,11,Long Term,SGX,Germany,Energy,2022-12-30,BB,3,Upgraded due to strong quarterly earnings,True,2022,12,2022-01-01
+SEC0010,Barton Group,20,S&P,SNP,9,Short Term,NYSE,Uk,Energy,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0060,Kelly Group,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2023-08-27,A+,6,Downgraded after debt increase,False,2023,8,2022-01-01
+SEC0064,Barnes PLC,10,Moody'S,MDY,7,Recovery,NSE,Usa,Finance,2023-06-15,A,5,Decreased liquidity ratio,False,2023,6,2022-01-01
+SEC0060,Kelly Group,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2023-10-03,CCC,1,Improved financial stability,False,2023,10,2022-01-01
+SEC0054,Crawford Inc,20,S&P,SNP,9,Short Term,SGX,Uk,Energy,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0008,Goodwin-Donaldson,20,S&P,SNP,9,Short Term,SGX,Singapore,Healthcare,2022-03-01,B,2,Improved financial stability,False,2022,3,2022-01-01
+SEC0042,Gutierrez Group,30,Fitch,FTC,11,Viability,NYSE,Usa,Energy,2022-02-26,A,5,Improved financial stability,False,2022,2,2022-01-01
+SEC0017,Brown Inc,10,Moody'S,MDY,7,Viability,NSE,Germany,Healthcare,2022-09-24,AA,8,Improved financial stability,True,2022,9,2022-01-01
+SEC0029,"Rice, Perez and Calderon",10,Moody'S,MDY,7,Long Term,NSE,India,Technology,2024-01-21,AA,8,Decreased liquidity ratio,False,2024,1,2022-01-01
+SEC0016,Ingram Inc,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2022-07-03,AA-,7,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0042,Gutierrez Group,20,S&P,SNP,9,Viability,NYSE,Usa,Energy,2022-10-25,CCC,1,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0004,Wallace-Collins,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0003,"Clark, Martin and Wright",20,S&P,SNP,9,Short Term,NYSE,Singapore,Energy,2024-07-25,A,5,Decreased liquidity ratio,True,2024,7,2022-01-01
+SEC0072,Butler-Newton,10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2022-11-19,B,2,Decreased liquidity ratio,False,2022,11,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",10,Moody'S,MDY,7,Viability,BSE,Uk,Energy,2024-05-29,CCC,1,Upgraded due to strong quarterly earnings,True,2024,5,2022-01-01
+SEC0006,"Wilson, Rich and Miller",10,Moody'S,MDY,7,Short Term,NYSE,Germany,Automotive,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",20,S&P,SNP,9,Long Term,SGX,India,Automotive,2023-04-02,BB,3,Upgraded due to strong quarterly earnings,False,2023,4,2022-01-01
+SEC0028,"Black, Harper and Cox",20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2022-01-01,AA,8,Improved financial stability,False,2022,1,2022-01-01
+SEC0051,Rogers LLC,20,S&P,SNP,9,Viability,BSE,Usa,Automotive,2022-07-08,BBB,4,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0029,"Rice, Perez and Calderon",10,Moody'S,MDY,7,Long Term,NSE,India,Technology,2022-12-27,A,5,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0021,Jones-Leonard,30,Fitch,FTC,11,Recovery,NYSE,Germany,Healthcare,2023-06-25,BB,3,Downgraded after debt increase,False,2023,6,2022-01-01
+SEC0001,Guerra Inc,20,S&P,SNP,9,Short Term,LON,India,Finance,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0029,"Rice, Perez and Calderon",20,S&P,SNP,9,Long Term,NSE,India,Technology,2022-11-03,BB,3,Stable outlook maintained,True,2022,11,2022-01-01
+SEC0023,Brown-Lloyd,30,Fitch,FTC,11,Short Term,BSE,India,Automotive,2022-04-13,AA+,9,Improved financial stability,False,2022,4,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",20,S&P,SNP,9,Viability,LON,Uk,Finance,2022-10-16,CCC,1,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0078,Meadows-Christensen,30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-01-01,BB,3,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",10,Moody'S,MDY,7,Recovery,LON,Germany,Healthcare,2022-11-05,AA-,7,Upgraded due to strong quarterly earnings,False,2022,11,2022-01-01
+SEC0029,"Rice, Perez and Calderon",30,Fitch,FTC,11,Long Term,NSE,India,Technology,2022-09-23,A+,6,Improved financial stability,False,2022,9,2022-01-01
+SEC0085,Wilson-Robbins,20,S&P,SNP,9,Recovery,BSE,Germany,Automotive,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0006,"Wilson, Rich and Miller",30,Fitch,FTC,11,Short Term,NYSE,Germany,Automotive,2022-01-01,CCC,1,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0007,James and Sons,10,Moody'S,MDY,7,Viability,SGX,Singapore,Energy,2022-11-11,AA-,7,Decreased liquidity ratio,False,2022,11,2022-01-01
+SEC0072,Butler-Newton,10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,30,Fitch,FTC,11,Short Term,SGX,Usa,Healthcare,2024-12-10,BB,3,Upgraded due to strong quarterly earnings,False,2024,12,2022-01-01
+SEC0010,Barton Group,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Energy,2022-06-06,AAA,10,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0048,Clay Ltd,30,Fitch,FTC,11,Long Term,BSE,Singapore,Automotive,2022-06-16,AA+,9,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0031,Moore-Bullock,30,Fitch,FTC,11,Long Term,SGX,India,Energy,2022-06-15,B,2,Improved financial stability,False,2022,6,2022-01-01
+SEC0020,Smith Ltd,20,S&P,SNP,9,Viability,BSE,Usa,Finance,2023-07-13,A+,6,Decreased liquidity ratio,False,2023,7,2022-09-05
+SEC0024,Hardy-Sims,10,Moody'S,MDY,7,Long Term,SGX,Germany,Energy,2025-09-18,A+,6,Improved financial stability,True,2025,9,2022-01-01
+SEC0046,Macdonald-Chavez,30,Fitch,FTC,11,Long Term,SGX,Germany,Healthcare,2025-05-17,B,2,Stable outlook maintained,True,2025,5,2022-01-01
+SEC0083,Curtis PLC,30,Fitch,FTC,11,Short Term,SGX,Uk,Automotive,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-05-15,AAA,10,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0053,Brandt-Harper,10,Moody'S,MDY,7,Long Term,LON,Germany,Healthcare,2022-06-15,AA-,7,Stable outlook maintained,True,2022,6,2022-01-01
+SEC0086,Miller and Sons,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-01-01,AA,8,Improved financial stability,False,2022,1,2022-01-01
+SEC0019,Adams PLC,30,Fitch,FTC,11,Long Term,LON,India,Healthcare,2022-12-13,CCC,1,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0007,James and Sons,20,S&P,SNP,9,Viability,SGX,Singapore,Energy,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0027,Patterson-Nguyen,30,Fitch,FTC,11,Short Term,SGX,Germany,Automotive,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0007,James and Sons,20,S&P,SNP,9,Viability,SGX,Singapore,Energy,2022-11-08,AA+,9,Improved financial stability,False,2022,11,2022-01-01
+SEC0097,"Hill, Lopez and Allen",10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2022-11-25,BB,3,Downgraded after debt increase,True,2022,11,2022-01-01
+SEC0002,Gonzalez-Garza,10,Moody'S,MDY,7,Long Term,NSE,Usa,Energy,2023-11-01,AA+,9,Stable outlook maintained,False,2023,11,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",30,Fitch,FTC,11,Long Term,SGX,Uk,Energy,2022-03-01,AA-,7,Improved financial stability,True,2022,3,2022-03-01
+SEC0049,West-Mullen,30,Fitch,FTC,11,Viability,LON,Uk,Energy,2022-01-01,CCC,1,Improved financial stability,False,2022,1,2022-01-01
+SEC0053,Brandt-Harper,20,S&P,SNP,9,Long Term,LON,Germany,Healthcare,2022-12-18,B,2,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0030,Lamb Group,10,Moody'S,MDY,7,Recovery,SGX,Usa,Finance,2022-09-21,A+,6,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0058,Rosales Group,20,S&P,SNP,9,Viability,SGX,Singapore,Automotive,2024-04-11,AA-,7,Decreased liquidity ratio,False,2024,4,2022-01-01
+SEC0067,Poole LLC,10,Moody'S,MDY,7,Recovery,SGX,Uk,Technology,2022-10-12,BB,3,Improved financial stability,False,2022,10,2022-01-01
+SEC0030,Lamb Group,20,S&P,SNP,9,Recovery,SGX,Usa,Finance,2024-10-17,BB,3,Upgraded due to strong quarterly earnings,True,2024,10,2022-01-01
+SEC0031,Moore-Bullock,30,Fitch,FTC,11,Long Term,SGX,India,Energy,2023-06-09,A,5,Upgraded due to strong quarterly earnings,False,2023,6,2022-01-01
+SEC0034,Booker-Elliott,20,S&P,SNP,9,Recovery,NSE,Usa,Healthcare,2022-04-30,A+,6,Improved financial stability,False,2022,4,2022-04-30
+SEC0087,Campbell-Mayer,20,S&P,SNP,9,Short Term,BSE,Germany,Finance,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0045,Jones-Leach,30,Fitch,FTC,11,Short Term,NSE,India,Energy,2022-09-17,CCC,1,Improved financial stability,False,2022,9,2022-01-01
+SEC0068,Moran-Stanley,20,S&P,SNP,9,Short Term,BSE,Usa,Energy,2022-05-25,AAA,10,Stable outlook maintained,True,2022,5,2022-01-01
+SEC0078,Meadows-Christensen,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0045,Jones-Leach,10,Moody'S,MDY,7,Short Term,NSE,India,Energy,2023-06-05,A,5,Improved financial stability,False,2023,6,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",30,Fitch,FTC,11,Viability,LON,Uk,Finance,2022-10-14,CCC,1,Improved financial stability,False,2022,10,2022-10-04
+SEC0061,Garcia-Garcia,20,S&P,SNP,9,Viability,BSE,Germany,Automotive,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0001,Guerra Inc,10,Moody'S,MDY,7,Short Term,LON,India,Finance,2022-04-03,AAA,10,Improved financial stability,True,2022,4,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",20,S&P,SNP,9,Recovery,LON,Singapore,Finance,2024-11-22,CCC,1,Downgraded after debt increase,False,2024,11,2022-01-01
+SEC0098,Rivera PLC,30,Fitch,FTC,11,Long Term,LON,Usa,Technology,2022-12-16,CCC,1,Stable outlook maintained,False,2022,12,2022-01-01
+SEC0085,Wilson-Robbins,30,Fitch,FTC,11,Recovery,BSE,Germany,Automotive,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-10-11,BBB,4,Improved financial stability,False,2022,10,2022-01-01
+SEC0075,Foster-Adams,10,Moody'S,MDY,7,Recovery,BSE,Germany,Healthcare,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0085,Wilson-Robbins,20,S&P,SNP,9,Recovery,BSE,Germany,Automotive,2023-02-19,B,2,Stable outlook maintained,True,2023,2,2022-01-01
+SEC0055,Castro Ltd,30,Fitch,FTC,11,Short Term,SGX,Singapore,Healthcare,2022-07-21,BBB,4,Stable outlook maintained,True,2022,7,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",30,Fitch,FTC,11,Recovery,NSE,Uk,Automotive,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,20,S&P,SNP,9,Short Term,SGX,Usa,Healthcare,2024-02-05,BB,3,Upgraded due to strong quarterly earnings,True,2024,2,2022-01-01
+SEC0091,Freeman Group,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-01-01,AA-,7,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0089,Trevino-Wilson,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-04-02,B,2,Upgraded due to strong quarterly earnings,False,2022,4,2022-01-01
+SEC0036,Myers Inc,10,Moody'S,MDY,7,Viability,BSE,Singapore,Technology,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0060,Kelly Group,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-05-31,CCC,1,Decreased liquidity ratio,False,2022,5,2022-01-01
+SEC0048,Clay Ltd,20,S&P,SNP,9,Long Term,BSE,Singapore,Automotive,2022-06-19,AA+,9,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0074,Moyer PLC,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",20,S&P,SNP,9,Long Term,SGX,India,Automotive,2024-07-07,BBB,4,Stable outlook maintained,True,2024,7,2022-01-01
+SEC0098,Rivera PLC,10,Moody'S,MDY,7,Long Term,LON,Usa,Technology,2023-05-28,AA,8,Improved financial stability,True,2023,5,2022-01-01
+SEC0044,Bishop-Sutton,30,Fitch,FTC,11,Short Term,SGX,Usa,Healthcare,2022-04-23,AA-,7,Stable outlook maintained,False,2022,4,2022-01-01
+SEC0059,Bailey-Larson,10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2025-05-05,A+,6,Stable outlook maintained,True,2025,5,2022-01-01
+SEC0063,Wood-Stewart,10,Moody'S,MDY,7,Short Term,NSE,Singapore,Energy,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",20,S&P,SNP,9,Recovery,LON,Singapore,Finance,2022-05-27,AAA,10,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0027,Patterson-Nguyen,30,Fitch,FTC,11,Short Term,SGX,Germany,Automotive,2023-12-28,AA,8,Downgraded after debt increase,True,2023,12,2022-01-01
+SEC0086,Miller and Sons,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0089,Trevino-Wilson,30,Fitch,FTC,11,Viability,LON,Uk,Energy,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0056,Smith-Galloway,10,Moody'S,MDY,7,Long Term,LON,Singapore,Healthcare,2022-07-23,B,2,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0011,Gibson-Moore,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0058,Rosales Group,10,Moody'S,MDY,7,Viability,SGX,Singapore,Automotive,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0006,"Wilson, Rich and Miller",10,Moody'S,MDY,7,Short Term,NYSE,Germany,Automotive,2022-03-06,AAA,10,Upgraded due to strong quarterly earnings,True,2022,3,2022-01-01
+SEC0021,Jones-Leonard,10,Moody'S,MDY,7,Recovery,NYSE,Germany,Healthcare,2022-08-03,AA,8,Upgraded due to strong quarterly earnings,True,2022,8,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",20,S&P,SNP,9,Short Term,BSE,Uk,Energy,2024-09-08,A+,6,Improved financial stability,True,2024,9,2022-01-01
+SEC0049,West-Mullen,30,Fitch,FTC,11,Viability,LON,Uk,Energy,2022-12-06,AA,8,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0003,"Clark, Martin and Wright",10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Energy,2023-07-28,AA-,7,Downgraded after debt increase,True,2023,7,2022-01-01
+SEC0007,James and Sons,30,Fitch,FTC,11,Viability,SGX,Singapore,Energy,2022-08-13,AAA,10,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",30,Fitch,FTC,11,Recovery,LON,Germany,Healthcare,2022-12-13,B,2,Stable outlook maintained,True,2022,12,2022-01-01
+SEC0004,Wallace-Collins,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-03-20,AA+,9,Upgraded due to strong quarterly earnings,True,2022,3,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",20,S&P,SNP,9,Recovery,LON,Singapore,Finance,2023-02-25,AA-,7,Improved financial stability,True,2023,2,2022-01-01
+SEC0037,"Hill, Rios and Bryant",10,Moody'S,MDY,7,Recovery,NSE,Uk,Technology,2023-09-20,B,2,Upgraded due to strong quarterly earnings,True,2023,9,2022-01-01
+SEC0032,"Bryant, Brady and Meza",30,Fitch,FTC,11,Long Term,SGX,India,Automotive,2022-04-03,A,5,Decreased liquidity ratio,True,2022,4,2022-01-01
+SEC0038,Rodriguez-Zimmerman,20,S&P,SNP,9,Short Term,NSE,Uk,Energy,2022-06-18,AA,8,Decreased liquidity ratio,False,2022,6,2022-01-01
+SEC0038,Rodriguez-Zimmerman,20,S&P,SNP,9,Short Term,NSE,Uk,Energy,2023-10-03,CCC,1,Improved financial stability,False,2023,10,2022-01-01
+SEC0096,Collins PLC,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Finance,2023-04-24,B,2,Stable outlook maintained,False,2023,4,2022-01-01
+SEC0078,Meadows-Christensen,30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-05-25,CCC,1,Improved financial stability,False,2022,5,2022-01-01
+SEC0039,Nelson Inc,20,S&P,SNP,9,Viability,NYSE,India,Energy,2024-05-08,B,2,Upgraded due to strong quarterly earnings,True,2024,5,2022-01-01
+SEC0053,Brandt-Harper,10,Moody'S,MDY,7,Long Term,LON,Germany,Healthcare,2022-01-01,AAA,10,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0033,Watson-Chang,10,Moody'S,MDY,7,Recovery,BSE,Singapore,Technology,2022-03-03,BBB,4,Upgraded due to strong quarterly earnings,True,2022,3,2022-01-01
+SEC0044,Bishop-Sutton,20,S&P,SNP,9,Short Term,SGX,Usa,Healthcare,2022-09-16,A,5,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0085,Wilson-Robbins,30,Fitch,FTC,11,Recovery,BSE,Germany,Automotive,2023-02-07,BBB,4,Upgraded due to strong quarterly earnings,False,2023,2,2022-01-01
+SEC0068,Moran-Stanley,30,Fitch,FTC,11,Short Term,BSE,Usa,Energy,2022-10-15,BBB,4,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0068,Moran-Stanley,30,Fitch,FTC,11,Short Term,BSE,Usa,Energy,2022-11-15,AA-,7,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",20,S&P,SNP,9,Recovery,NYSE,Usa,Technology,2022-04-25,A,5,Stable outlook maintained,False,2022,4,2022-01-01
+SEC0020,Smith Ltd,20,S&P,SNP,9,Viability,BSE,Usa,Finance,2022-12-31,AA-,7,Upgraded due to strong quarterly earnings,True,2022,12,2022-09-05
+SEC0077,"Jones, Gonzalez and Wood",20,S&P,SNP,9,Viability,LON,Singapore,Finance,2022-06-02,A+,6,Improved financial stability,True,2022,6,2022-01-01
+SEC0098,Rivera PLC,10,Moody'S,MDY,7,Long Term,LON,Usa,Technology,2022-07-30,AA+,9,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0048,Clay Ltd,20,S&P,SNP,9,Long Term,BSE,Singapore,Automotive,2023-05-22,BBB,4,Downgraded after debt increase,False,2023,5,2022-01-01
+SEC0051,Rogers LLC,30,Fitch,FTC,11,Viability,BSE,Usa,Automotive,2022-09-18,BB,3,Stable outlook maintained,True,2022,9,2022-01-01
+SEC0089,Trevino-Wilson,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-05-30,AA+,9,Decreased liquidity ratio,False,2022,5,2022-01-01
+SEC0006,"Wilson, Rich and Miller",30,Fitch,FTC,11,Short Term,NYSE,Germany,Automotive,2022-09-12,AA+,9,Improved financial stability,True,2022,9,2022-01-01
+SEC0061,Garcia-Garcia,10,Moody'S,MDY,7,Viability,BSE,Germany,Automotive,2022-07-22,BB,3,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",30,Fitch,FTC,11,Viability,LON,Uk,Finance,2022-10-04,AA-,7,Upgraded due to strong quarterly earnings,True,2022,10,2022-10-04
+SEC0009,Anderson LLC,30,Fitch,FTC,11,Recovery,BSE,Uk,Energy,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",20,S&P,SNP,9,Long Term,NSE,Singapore,Technology,2022-08-05,AAA,10,Improved financial stability,True,2022,8,2022-01-01
+SEC0025,Johnson PLC,30,Fitch,FTC,11,Viability,SGX,Usa,Healthcare,2022-06-21,AA-,7,Stable outlook maintained,True,2022,6,2022-01-01
+SEC0052,Gilmore and Sons,20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-06-25,AA+,9,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",20,S&P,SNP,9,Viability,LON,Uk,Finance,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,10,Moody'S,MDY,7,Short Term,SGX,Usa,Healthcare,2023-03-09,AA-,7,Downgraded after debt increase,True,2023,3,2022-01-01
+SEC0038,Rodriguez-Zimmerman,10,Moody'S,MDY,7,Short Term,NSE,Uk,Energy,2023-08-26,AA-,7,Downgraded after debt increase,True,2023,8,2022-01-01
+SEC0030,Lamb Group,30,Fitch,FTC,11,Recovery,SGX,Usa,Finance,2022-12-22,AA-,7,Stable outlook maintained,False,2022,12,2022-01-01
+SEC0018,Herrera-Walters,30,Fitch,FTC,11,Long Term,BSE,India,Automotive,2022-11-30,AA-,7,Improved financial stability,False,2022,11,2022-01-01
+SEC0068,Moran-Stanley,20,S&P,SNP,9,Short Term,BSE,Usa,Energy,2022-12-23,CCC,1,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0067,Poole LLC,30,Fitch,FTC,11,Recovery,SGX,Uk,Technology,2025-01-25,BB,3,Downgraded after debt increase,True,2025,1,2022-01-01
+SEC0011,Gibson-Moore,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0082,Ballard and Sons,30,Fitch,FTC,11,Short Term,LON,Uk,Finance,2022-04-02,BBB,4,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0054,Crawford Inc,30,Fitch,FTC,11,Short Term,SGX,Uk,Energy,2024-05-02,AAA,10,Improved financial stability,True,2024,5,2022-01-01
+SEC0085,Wilson-Robbins,30,Fitch,FTC,11,Recovery,BSE,Germany,Automotive,2024-06-13,AA+,9,Upgraded due to strong quarterly earnings,True,2024,6,2022-01-01
+SEC0042,Gutierrez Group,30,Fitch,FTC,11,Viability,NYSE,Usa,Energy,2023-11-13,A+,6,Upgraded due to strong quarterly earnings,False,2023,11,2022-01-01
+SEC0060,Kelly Group,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2024-12-19,A+,6,Decreased liquidity ratio,False,2024,12,2022-01-01
+SEC0032,"Bryant, Brady and Meza",10,Moody'S,MDY,7,Long Term,SGX,India,Automotive,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0026,Hernandez Inc,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2023-09-17,AAA,10,Stable outlook maintained,False,2023,9,2022-01-01
+SEC0030,Lamb Group,30,Fitch,FTC,11,Recovery,SGX,Usa,Finance,2022-11-13,AA,8,Improved financial stability,True,2022,11,2022-01-01
+SEC0070,Matthews LLC,30,Fitch,FTC,11,Long Term,LON,India,Automotive,2022-09-18,BB,3,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0051,Rogers LLC,20,S&P,SNP,9,Viability,BSE,Usa,Automotive,2023-08-22,BBB,4,Downgraded after debt increase,True,2023,8,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2024-11-04,AA,8,Upgraded due to strong quarterly earnings,True,2024,11,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",20,S&P,SNP,9,Viability,BSE,Uk,Energy,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0071,Rogers-Nunez,20,S&P,SNP,9,Long Term,NSE,Uk,Automotive,2022-05-06,BBB,4,Downgraded after debt increase,False,2022,5,2022-01-01
+SEC0079,Reyes-Garza,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2022-06-30,AA-,7,Decreased liquidity ratio,False,2022,6,2022-06-30
+SEC0061,Garcia-Garcia,30,Fitch,FTC,11,Viability,BSE,Germany,Automotive,2023-03-03,AA,8,Downgraded after debt increase,True,2023,3,2022-01-01
+SEC0060,Kelly Group,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2025-12-03,B,2,Stable outlook maintained,True,2025,12,2022-01-01
+SEC0058,Rosales Group,30,Fitch,FTC,11,Viability,SGX,Singapore,Automotive,2023-02-21,B,2,Upgraded due to strong quarterly earnings,True,2023,2,2022-01-01
+SEC0003,"Clark, Martin and Wright",20,S&P,SNP,9,Short Term,NYSE,Singapore,Energy,2024-09-14,BBB,4,Stable outlook maintained,False,2024,9,2022-01-01
+SEC0016,Ingram Inc,30,Fitch,FTC,11,Short Term,BSE,India,Automotive,2022-01-01,A,5,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0025,Johnson PLC,10,Moody'S,MDY,7,Viability,SGX,Usa,Healthcare,2022-01-01,A,5,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0088,Anderson Group,10,Moody'S,MDY,7,Recovery,NYSE,India,Automotive,2022-07-07,AA+,9,Decreased liquidity ratio,True,2022,7,2022-01-01
+SEC0068,Moran-Stanley,10,Moody'S,MDY,7,Short Term,BSE,Usa,Energy,2022-04-19,AAA,10,Downgraded after debt increase,False,2022,4,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",20,S&P,SNP,9,Recovery,NSE,Uk,Automotive,2023-10-13,AA-,7,Decreased liquidity ratio,False,2023,10,2022-01-01
+SEC0061,Garcia-Garcia,20,S&P,SNP,9,Viability,BSE,Germany,Automotive,2023-12-30,A,5,Decreased liquidity ratio,False,2023,12,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",10,Moody'S,MDY,7,Long Term,NSE,Germany,Healthcare,2022-08-29,A+,6,Downgraded after debt increase,True,2022,8,2022-01-01
+SEC0053,Brandt-Harper,20,S&P,SNP,9,Long Term,LON,Germany,Healthcare,2023-12-18,A+,6,Downgraded after debt increase,False,2023,12,2022-01-01
+SEC0007,James and Sons,10,Moody'S,MDY,7,Viability,SGX,Singapore,Energy,2024-09-11,AA,8,Upgraded due to strong quarterly earnings,True,2024,9,2022-01-01
+SEC0063,Wood-Stewart,30,Fitch,FTC,11,Short Term,NSE,Singapore,Energy,2022-08-12,BBB,4,Improved financial stability,False,2022,8,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",30,Fitch,FTC,11,Short Term,BSE,Uk,Automotive,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0025,Johnson PLC,30,Fitch,FTC,11,Viability,SGX,Usa,Healthcare,2022-08-25,B,2,Improved financial stability,False,2022,8,2022-01-01
+SEC0070,Matthews LLC,30,Fitch,FTC,11,Long Term,LON,India,Automotive,2023-03-01,B,2,Downgraded after debt increase,False,2023,3,2022-01-01
+SEC0034,Booker-Elliott,30,Fitch,FTC,11,Recovery,NSE,Usa,Healthcare,2022-01-01,BB,3,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0022,"Allen, Wood and Young",10,Moody'S,MDY,7,Long Term,NSE,Uk,Technology,2022-12-19,AAA,10,Decreased liquidity ratio,False,2022,12,2022-01-01
+SEC0023,Brown-Lloyd,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2023-01-29,BBB,4,Improved financial stability,True,2023,1,2022-01-01
+SEC0039,Nelson Inc,10,Moody'S,MDY,7,Viability,NYSE,India,Energy,2022-12-03,AAA,10,Improved financial stability,False,2022,12,2022-10-28
+SEC0055,Castro Ltd,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2023-11-02,BB,3,Upgraded due to strong quarterly earnings,True,2023,11,2022-01-01
+SEC0032,"Bryant, Brady and Meza",10,Moody'S,MDY,7,Long Term,SGX,India,Automotive,2023-12-26,BBB,4,Improved financial stability,False,2023,12,2022-01-01
+SEC0070,Matthews LLC,10,Moody'S,MDY,7,Long Term,LON,India,Automotive,2022-03-11,A+,6,Decreased liquidity ratio,False,2022,3,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",10,Moody'S,MDY,7,Recovery,NSE,Uk,Automotive,2024-09-03,AA,8,Downgraded after debt increase,True,2024,9,2022-01-01
+SEC0025,Johnson PLC,10,Moody'S,MDY,7,Viability,SGX,Usa,Healthcare,2022-07-20,A,5,Improved financial stability,True,2022,7,2022-01-01
+SEC0058,Rosales Group,30,Fitch,FTC,11,Viability,SGX,Singapore,Automotive,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0043,Dillon PLC,20,S&P,SNP,9,Recovery,BSE,India,Healthcare,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0007,James and Sons,30,Fitch,FTC,11,Viability,SGX,Singapore,Energy,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0009,Anderson LLC,30,Fitch,FTC,11,Recovery,BSE,Uk,Energy,2023-09-19,A+,6,Improved financial stability,False,2023,9,2022-01-01
+SEC0003,"Clark, Martin and Wright",30,Fitch,FTC,11,Short Term,NYSE,Singapore,Energy,2023-12-04,AA,8,Downgraded after debt increase,True,2023,12,2022-01-01
+SEC0064,Barnes PLC,30,Fitch,FTC,11,Recovery,NSE,Usa,Finance,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0026,Hernandez Inc,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2022-01-01,AAA,10,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0020,Smith Ltd,10,Moody'S,MDY,7,Viability,BSE,Usa,Finance,2024-01-15,CCC,1,Upgraded due to strong quarterly earnings,True,2024,1,2022-01-01
+SEC0040,Fox Group,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-09-20,AA,8,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",10,Moody'S,MDY,7,Long Term,NSE,Singapore,Technology,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0039,Nelson Inc,10,Moody'S,MDY,7,Viability,NYSE,India,Energy,2022-10-28,A+,6,Upgraded due to strong quarterly earnings,True,2022,10,2022-10-28
+SEC0008,Goodwin-Donaldson,20,S&P,SNP,9,Short Term,SGX,Singapore,Healthcare,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0009,Anderson LLC,10,Moody'S,MDY,7,Recovery,BSE,Uk,Energy,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0036,Myers Inc,10,Moody'S,MDY,7,Viability,BSE,Singapore,Technology,2022-11-21,BB,3,Improved financial stability,True,2022,11,2022-01-01
+SEC0008,Goodwin-Donaldson,30,Fitch,FTC,11,Short Term,SGX,Singapore,Healthcare,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0043,Dillon PLC,20,S&P,SNP,9,Recovery,BSE,India,Healthcare,2023-01-20,AA-,7,Decreased liquidity ratio,False,2023,1,2022-01-01
+SEC0088,Anderson Group,30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2022-11-24,AA+,9,Stable outlook maintained,False,2022,11,2022-07-16
+SEC0049,West-Mullen,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2024-12-07,AAA,10,Improved financial stability,False,2024,12,2022-01-01
+SEC0086,Miller and Sons,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2025-07-12,A,5,Improved financial stability,True,2025,7,2022-01-01
+SEC0042,Gutierrez Group,20,S&P,SNP,9,Viability,NYSE,Usa,Energy,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0074,Moyer PLC,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2025-06-26,BBB,4,Upgraded due to strong quarterly earnings,True,2025,6,2022-01-01
+SEC0035,Moran Inc,20,S&P,SNP,9,Short Term,NYSE,India,Technology,2022-05-23,A,5,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0001,Guerra Inc,20,S&P,SNP,9,Short Term,LON,India,Finance,2023-12-26,B,2,Downgraded after debt increase,True,2023,12,2022-01-01
+SEC0031,Moore-Bullock,10,Moody'S,MDY,7,Long Term,SGX,India,Energy,2022-07-17,BBB,4,Decreased liquidity ratio,False,2022,7,2022-01-01
+SEC0096,Collins PLC,30,Fitch,FTC,11,Short Term,SGX,Singapore,Finance,2022-09-30,AA+,9,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0010,Barton Group,30,Fitch,FTC,11,Short Term,NYSE,Uk,Energy,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0010,Barton Group,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Energy,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0086,Miller and Sons,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",20,S&P,SNP,9,Long Term,SGX,Uk,Energy,2023-07-22,B,2,Downgraded after debt increase,False,2023,7,2022-10-22
+SEC0031,Moore-Bullock,20,S&P,SNP,9,Long Term,SGX,India,Energy,2022-07-01,A,5,Improved financial stability,False,2022,7,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",30,Fitch,FTC,11,Recovery,LON,Singapore,Finance,2022-07-10,BBB,4,Decreased liquidity ratio,True,2022,7,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0028,"Black, Harper and Cox",20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2022-09-28,A+,6,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0026,Hernandez Inc,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2023-06-27,AA-,7,Downgraded after debt increase,True,2023,6,2022-01-01
+SEC0056,Smith-Galloway,30,Fitch,FTC,11,Long Term,LON,Singapore,Healthcare,2022-07-03,CCC,1,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0047,Garcia-Patrick,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-11-24,A,5,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0096,Collins PLC,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Finance,2023-08-28,AA+,9,Improved financial stability,True,2023,8,2022-01-01
+SEC0047,Garcia-Patrick,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-01-01,B,2,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-03-23,AA-,7,Decreased liquidity ratio,False,2022,3,2022-01-01
+SEC0059,Bailey-Larson,10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2022-01-01,AA,8,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",20,S&P,SNP,9,Short Term,BSE,Uk,Energy,2022-11-01,A,5,Improved financial stability,False,2022,11,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-11-06,AA,8,Downgraded after debt increase,False,2022,11,2022-01-01
+SEC0025,Johnson PLC,20,S&P,SNP,9,Viability,SGX,Usa,Healthcare,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0043,Dillon PLC,10,Moody'S,MDY,7,Recovery,BSE,India,Healthcare,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0028,"Black, Harper and Cox",30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2022-01-01,AA+,9,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0059,Bailey-Larson,20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-04-21,B,2,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0002,Gonzalez-Garza,10,Moody'S,MDY,7,Long Term,NSE,Usa,Energy,2022-01-01,A,5,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0063,Wood-Stewart,20,S&P,SNP,9,Short Term,NSE,Singapore,Energy,2022-08-28,AA,8,Decreased liquidity ratio,True,2022,8,2022-01-01
+SEC0019,Adams PLC,30,Fitch,FTC,11,Long Term,LON,India,Healthcare,2022-01-01,BB,3,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0091,Freeman Group,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-06-20,A+,6,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0008,Goodwin-Donaldson,20,S&P,SNP,9,Short Term,SGX,Singapore,Healthcare,2022-12-31,CCC,1,Decreased liquidity ratio,True,2022,12,2022-01-01
+SEC0046,Macdonald-Chavez,30,Fitch,FTC,11,Long Term,SGX,Germany,Healthcare,2022-09-08,AA+,9,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0054,Crawford Inc,10,Moody'S,MDY,7,Short Term,SGX,Uk,Energy,2022-07-13,AA-,7,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0086,Miller and Sons,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2023-01-24,AA-,7,Downgraded after debt increase,False,2023,1,2022-01-01
+SEC0024,Hardy-Sims,10,Moody'S,MDY,7,Long Term,SGX,Germany,Energy,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0037,"Hill, Rios and Bryant",10,Moody'S,MDY,7,Recovery,NSE,Uk,Technology,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0020,Smith Ltd,30,Fitch,FTC,11,Viability,BSE,Usa,Finance,2022-05-21,BB,3,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",10,Moody'S,MDY,7,Long Term,LON,India,Finance,2023-09-25,BBB,4,Downgraded after debt increase,True,2023,9,2022-01-01
+SEC0056,Smith-Galloway,20,S&P,SNP,9,Long Term,LON,Singapore,Healthcare,2022-01-01,AAA,10,Improved financial stability,False,2022,1,2022-01-01
+SEC0052,Gilmore and Sons,20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-10-10,A+,6,Stable outlook maintained,True,2022,10,2022-01-01
+SEC0022,"Allen, Wood and Young",20,S&P,SNP,9,Long Term,NSE,Uk,Technology,2023-05-14,A+,6,Stable outlook maintained,True,2023,5,2022-01-01
+SEC0090,Goodman Group,30,Fitch,FTC,11,Recovery,NSE,Singapore,Healthcare,2022-01-01,CCC,1,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0056,Smith-Galloway,30,Fitch,FTC,11,Long Term,LON,Singapore,Healthcare,2024-04-20,CCC,1,Upgraded due to strong quarterly earnings,True,2024,4,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",20,S&P,SNP,9,Recovery,LON,Singapore,Finance,2023-07-05,AA,8,Stable outlook maintained,False,2023,7,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0018,Herrera-Walters,10,Moody'S,MDY,7,Long Term,BSE,India,Automotive,2023-06-21,A+,6,Upgraded due to strong quarterly earnings,True,2023,6,2022-01-01
+SEC0097,"Hill, Lopez and Allen",20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2023-12-25,CCC,1,Decreased liquidity ratio,True,2023,12,2022-01-01
+SEC0048,Clay Ltd,30,Fitch,FTC,11,Long Term,BSE,Singapore,Automotive,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0045,Jones-Leach,10,Moody'S,MDY,7,Short Term,NSE,India,Energy,2023-12-28,AAA,10,Downgraded after debt increase,True,2023,12,2022-01-01
+SEC0054,Crawford Inc,10,Moody'S,MDY,7,Short Term,SGX,Uk,Energy,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0098,Rivera PLC,10,Moody'S,MDY,7,Long Term,LON,Usa,Technology,2022-12-21,AA,8,Decreased liquidity ratio,False,2022,12,2022-01-01
+SEC0086,Miller and Sons,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2023-08-03,A+,6,Improved financial stability,False,2023,8,2022-01-01
+SEC0045,Jones-Leach,30,Fitch,FTC,11,Short Term,NSE,India,Energy,2022-05-21,AAA,10,Upgraded due to strong quarterly earnings,False,2022,5,2022-01-01
+SEC0001,Guerra Inc,30,Fitch,FTC,11,Short Term,LON,India,Finance,2022-02-03,AA,8,Downgraded after debt increase,False,2022,2,2022-01-01
+SEC0096,Collins PLC,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Finance,2022-01-01,AAA,10,Improved financial stability,False,2022,1,2022-01-01
+SEC0016,Ingram Inc,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0035,Moran Inc,30,Fitch,FTC,11,Short Term,NYSE,India,Technology,2023-11-10,BBB,4,Improved financial stability,False,2023,11,2022-01-01
+SEC0059,Bailey-Larson,10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2024-04-05,AA-,7,Decreased liquidity ratio,False,2024,4,2022-01-01
+SEC0022,"Allen, Wood and Young",10,Moody'S,MDY,7,Long Term,NSE,Uk,Technology,2022-08-08,AA-,7,Improved financial stability,False,2022,8,2022-01-01
+SEC0032,"Bryant, Brady and Meza",30,Fitch,FTC,11,Long Term,SGX,India,Automotive,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0087,Campbell-Mayer,10,Moody'S,MDY,7,Short Term,BSE,Germany,Finance,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0049,West-Mullen,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-09-16,AAA,10,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0082,Ballard and Sons,30,Fitch,FTC,11,Short Term,LON,Uk,Finance,2023-07-03,AA+,9,Decreased liquidity ratio,False,2023,7,2022-01-01
+SEC0040,Fox Group,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2023-02-05,AA,8,Improved financial stability,False,2023,2,2022-01-01
+SEC0083,Curtis PLC,10,Moody'S,MDY,7,Short Term,SGX,Uk,Automotive,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0074,Moyer PLC,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2024-08-30,AA-,7,Downgraded after debt increase,False,2024,8,2022-01-01
+SEC0042,Gutierrez Group,10,Moody'S,MDY,7,Viability,NYSE,Usa,Energy,2023-12-22,AA,8,Improved financial stability,True,2023,12,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",20,S&P,SNP,9,Recovery,NYSE,Usa,Technology,2023-05-28,AA+,9,Decreased liquidity ratio,True,2023,5,2022-01-01
+SEC0097,"Hill, Lopez and Allen",20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-05-27,A,5,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0061,Garcia-Garcia,30,Fitch,FTC,11,Viability,BSE,Germany,Automotive,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0050,Matthews Inc,30,Fitch,FTC,11,Recovery,SGX,Germany,Energy,2022-03-05,B,2,Stable outlook maintained,False,2022,3,2022-01-01
+SEC0058,Rosales Group,10,Moody'S,MDY,7,Viability,SGX,Singapore,Automotive,2022-11-14,A,5,Downgraded after debt increase,True,2022,11,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",30,Fitch,FTC,11,Recovery,NYSE,Usa,Technology,2024-11-30,A+,6,Improved financial stability,True,2024,11,2022-01-01
+SEC0074,Moyer PLC,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2023-08-14,B,2,Stable outlook maintained,False,2023,8,2022-01-01
+SEC0086,Miller and Sons,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-02-23,BB,3,Upgraded due to strong quarterly earnings,True,2022,2,2022-01-01
+SEC0016,Ingram Inc,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2023-03-03,BB,3,Decreased liquidity ratio,False,2023,3,2022-01-01
+SEC0022,"Allen, Wood and Young",30,Fitch,FTC,11,Long Term,NSE,Uk,Technology,2022-01-01,AA+,9,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,20,S&P,SNP,9,Short Term,SGX,Usa,Healthcare,2022-06-02,A+,6,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-11-29,B,2,Improved financial stability,False,2022,11,2022-01-01
+SEC0021,Jones-Leonard,10,Moody'S,MDY,7,Recovery,NYSE,Germany,Healthcare,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",20,S&P,SNP,9,Long Term,NSE,Singapore,Technology,2023-09-13,CCC,1,Decreased liquidity ratio,False,2023,9,2022-01-01
+SEC0008,Goodwin-Donaldson,20,S&P,SNP,9,Short Term,SGX,Singapore,Healthcare,2022-09-08,AA+,9,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0015,Moore PLC,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2023-07-31,BBB,4,Stable outlook maintained,False,2023,7,2022-01-01
+SEC0030,Lamb Group,20,S&P,SNP,9,Recovery,SGX,Usa,Finance,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0042,Gutierrez Group,30,Fitch,FTC,11,Viability,NYSE,Usa,Energy,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0041,Hansen LLC,10,Moody'S,MDY,7,Viability,NYSE,Singapore,Technology,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0064,Barnes PLC,30,Fitch,FTC,11,Recovery,NSE,Usa,Finance,2023-12-14,AA-,7,Stable outlook maintained,True,2023,12,2022-01-01
+SEC0058,Rosales Group,20,S&P,SNP,9,Viability,SGX,Singapore,Automotive,2023-11-20,B,2,Upgraded due to strong quarterly earnings,True,2023,11,2022-01-01
+SEC0004,Wallace-Collins,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-12-03,A,5,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0042,Gutierrez Group,30,Fitch,FTC,11,Viability,NYSE,Usa,Energy,2023-02-01,AA+,9,Stable outlook maintained,False,2023,2,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",10,Moody'S,MDY,7,Viability,BSE,Uk,Energy,2022-01-01,BB,3,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0061,Garcia-Garcia,20,S&P,SNP,9,Viability,BSE,Germany,Automotive,2022-11-20,AAA,10,Upgraded due to strong quarterly earnings,False,2022,11,2022-01-01
+SEC0031,Moore-Bullock,10,Moody'S,MDY,7,Long Term,SGX,India,Energy,2022-09-22,AA,8,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0040,Fox Group,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-03-24,AA,8,Upgraded due to strong quarterly earnings,False,2022,3,2022-01-01
+SEC0052,Gilmore and Sons,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-04-04,B,2,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",30,Fitch,FTC,11,Recovery,NYSE,Uk,Healthcare,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0052,Gilmore and Sons,20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0083,Curtis PLC,30,Fitch,FTC,11,Short Term,SGX,Uk,Automotive,2023-12-22,AA+,9,Decreased liquidity ratio,False,2023,12,2022-01-01
+SEC0080,Rios-Bates,10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Automotive,2023-11-02,B,2,Decreased liquidity ratio,True,2023,11,2022-01-01
+SEC0001,Guerra Inc,10,Moody'S,MDY,7,Short Term,LON,India,Finance,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0053,Brandt-Harper,20,S&P,SNP,9,Long Term,LON,Germany,Healthcare,2023-04-11,BBB,4,Upgraded due to strong quarterly earnings,False,2023,4,2022-01-01
+SEC0036,Myers Inc,10,Moody'S,MDY,7,Viability,BSE,Singapore,Technology,2022-03-20,A,5,Downgraded after debt increase,False,2022,3,2022-01-01
+SEC0038,Rodriguez-Zimmerman,20,S&P,SNP,9,Short Term,NSE,Uk,Energy,2025-10-16,AAA,10,Improved financial stability,True,2025,10,2022-01-01
+SEC0031,Moore-Bullock,20,S&P,SNP,9,Long Term,SGX,India,Energy,2023-03-12,BBB,4,Stable outlook maintained,True,2023,3,2022-01-01
+SEC0074,Moyer PLC,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2022-06-12,AA-,7,Stable outlook maintained,False,2022,6,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",30,Fitch,FTC,11,Long Term,NSE,Germany,Healthcare,2022-02-10,A,5,Upgraded due to strong quarterly earnings,True,2022,2,2022-01-01
+SEC0050,Matthews Inc,10,Moody'S,MDY,7,Recovery,SGX,Germany,Energy,2023-05-08,A+,6,Downgraded after debt increase,True,2023,5,2022-05-06
+SEC0058,Rosales Group,20,S&P,SNP,9,Viability,SGX,Singapore,Automotive,2022-10-30,A,5,Stable outlook maintained,False,2022,10,2022-01-01
+SEC0097,"Hill, Lopez and Allen",20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-03-03,AA,8,Improved financial stability,False,2022,3,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",10,Moody'S,MDY,7,Long Term,NSE,Singapore,Technology,2025-04-27,BBB,4,Decreased liquidity ratio,True,2025,4,2022-01-01
+SEC0017,Brown Inc,20,S&P,SNP,9,Viability,NSE,Germany,Healthcare,2023-04-23,AA+,9,Downgraded after debt increase,True,2023,4,2022-01-01
+SEC0013,Williams Inc,10,Moody'S,MDY,7,Short Term,SGX,Germany,Finance,2023-03-09,BBB,4,Improved financial stability,False,2023,3,2022-01-01
+SEC0048,Clay Ltd,30,Fitch,FTC,11,Long Term,BSE,Singapore,Automotive,2024-02-16,AA+,9,Improved financial stability,True,2024,2,2022-01-01
+SEC0051,Rogers LLC,10,Moody'S,MDY,7,Viability,BSE,Usa,Automotive,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0060,Kelly Group,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2022-01-01,AA,8,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",10,Moody'S,MDY,7,Recovery,NSE,Uk,Automotive,2022-06-12,BBB,4,Downgraded after debt increase,False,2022,6,2022-01-01
+SEC0009,Anderson LLC,20,S&P,SNP,9,Recovery,BSE,Uk,Energy,2023-09-17,AA+,9,Decreased liquidity ratio,False,2023,9,2022-03-09
+SEC0098,Rivera PLC,10,Moody'S,MDY,7,Long Term,LON,Usa,Technology,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0018,Herrera-Walters,30,Fitch,FTC,11,Long Term,BSE,India,Automotive,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0036,Myers Inc,20,S&P,SNP,9,Viability,BSE,Singapore,Technology,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0050,Matthews Inc,30,Fitch,FTC,11,Recovery,SGX,Germany,Energy,2022-12-23,A+,6,Decreased liquidity ratio,False,2022,12,2022-01-01
+SEC0027,Patterson-Nguyen,20,S&P,SNP,9,Short Term,SGX,Germany,Automotive,2023-09-01,CCC,1,Downgraded after debt increase,True,2023,9,2022-01-01
+SEC0097,"Hill, Lopez and Allen",20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",20,S&P,SNP,9,Viability,LON,Uk,Finance,2023-11-01,A+,6,Upgraded due to strong quarterly earnings,False,2023,11,2022-01-01
+SEC0007,James and Sons,20,S&P,SNP,9,Viability,SGX,Singapore,Energy,2022-08-20,AA-,7,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0029,"Rice, Perez and Calderon",10,Moody'S,MDY,7,Long Term,NSE,India,Technology,2025-04-19,BBB,4,Stable outlook maintained,True,2025,4,2022-01-01
+SEC0013,Williams Inc,30,Fitch,FTC,11,Short Term,SGX,Germany,Finance,2023-11-22,CCC,1,Upgraded due to strong quarterly earnings,False,2023,11,2022-01-01
+SEC0030,Lamb Group,10,Moody'S,MDY,7,Recovery,SGX,Usa,Finance,2023-03-29,BB,3,Improved financial stability,False,2023,3,2022-01-01
+SEC0051,Rogers LLC,30,Fitch,FTC,11,Viability,BSE,Usa,Automotive,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",20,S&P,SNP,9,Long Term,SGX,India,Automotive,2022-05-31,B,2,Decreased liquidity ratio,False,2022,5,2022-01-01
+SEC0015,Moore PLC,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-06-15,B,2,Decreased liquidity ratio,False,2022,6,2022-01-01
+SEC0052,Gilmore and Sons,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0082,Ballard and Sons,10,Moody'S,MDY,7,Short Term,LON,Uk,Finance,2022-09-07,AA+,9,Improved financial stability,True,2022,9,2022-09-07
+SEC0068,Moran-Stanley,20,S&P,SNP,9,Short Term,BSE,Usa,Energy,2023-07-13,AAA,10,Improved financial stability,False,2023,7,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",10,Moody'S,MDY,7,Viability,BSE,Uk,Energy,2022-08-21,AA+,9,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0033,Watson-Chang,30,Fitch,FTC,11,Recovery,BSE,Singapore,Technology,2022-11-10,AA-,7,Stable outlook maintained,False,2022,11,2022-01-01
+SEC0071,Rogers-Nunez,10,Moody'S,MDY,7,Long Term,NSE,Uk,Automotive,2022-08-18,A,5,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0016,Ingram Inc,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2023-11-08,BBB,4,Downgraded after debt increase,True,2023,11,2022-01-01
+SEC0003,"Clark, Martin and Wright",20,S&P,SNP,9,Short Term,NYSE,Singapore,Energy,2023-09-27,B,2,Upgraded due to strong quarterly earnings,False,2023,9,2022-01-01
+SEC0064,Barnes PLC,30,Fitch,FTC,11,Recovery,NSE,Usa,Finance,2022-02-22,BBB,4,Downgraded after debt increase,False,2022,2,2022-01-01
+SEC0019,Adams PLC,20,S&P,SNP,9,Long Term,LON,India,Healthcare,2023-06-05,AA-,7,Downgraded after debt increase,False,2023,6,2022-01-01
+SEC0064,Barnes PLC,20,S&P,SNP,9,Recovery,NSE,Usa,Finance,2022-03-23,CCC,1,Improved financial stability,True,2022,3,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2022-07-20,CCC,1,Downgraded after debt increase,True,2022,7,2022-01-01
+SEC0043,Dillon PLC,10,Moody'S,MDY,7,Recovery,BSE,India,Healthcare,2022-12-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0073,"Davis, Knox and Hall",20,S&P,SNP,9,Recovery,BSE,Singapore,Healthcare,2024-07-22,AAA,10,Downgraded after debt increase,False,2024,7,2022-03-30
+SEC0017,Brown Inc,20,S&P,SNP,9,Viability,NSE,Germany,Healthcare,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0055,Castro Ltd,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",30,Fitch,FTC,11,Viability,BSE,Uk,Energy,2022-03-09,BB,3,Downgraded after debt increase,True,2022,3,2022-01-01
+SEC0017,Brown Inc,30,Fitch,FTC,11,Viability,NSE,Germany,Healthcare,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0001,Guerra Inc,30,Fitch,FTC,11,Short Term,LON,India,Finance,2022-01-01,CCC,1,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0068,Moran-Stanley,20,S&P,SNP,9,Short Term,BSE,Usa,Energy,2024-06-25,B,2,Downgraded after debt increase,False,2024,6,2022-01-01
+SEC0054,Crawford Inc,10,Moody'S,MDY,7,Short Term,SGX,Uk,Energy,2023-04-14,AA,8,Improved financial stability,True,2023,4,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",20,S&P,SNP,9,Recovery,LON,Germany,Healthcare,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0056,Smith-Galloway,20,S&P,SNP,9,Long Term,LON,Singapore,Healthcare,2023-06-29,B,2,Downgraded after debt increase,False,2023,6,2022-01-01
+SEC0007,James and Sons,30,Fitch,FTC,11,Viability,SGX,Singapore,Energy,2022-11-27,BB,3,Upgraded due to strong quarterly earnings,True,2022,11,2022-01-01
+SEC0072,Butler-Newton,20,S&P,SNP,9,Viability,LON,Singapore,Finance,2022-07-03,BB,3,Improved financial stability,False,2022,7,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",20,S&P,SNP,9,Viability,NYSE,Singapore,Finance,2023-10-23,B,2,Decreased liquidity ratio,False,2023,10,2022-02-20
+SEC0023,Brown-Lloyd,30,Fitch,FTC,11,Short Term,BSE,India,Automotive,2022-08-17,A+,6,Stable outlook maintained,True,2022,8,2022-01-01
+SEC0015,Moore PLC,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2023-01-04,BB,3,Decreased liquidity ratio,True,2023,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0023,Brown-Lloyd,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2022-10-26,A+,6,Stable outlook maintained,False,2022,10,2022-01-01
+SEC0022,"Allen, Wood and Young",10,Moody'S,MDY,7,Long Term,NSE,Uk,Technology,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0021,Jones-Leonard,20,S&P,SNP,9,Recovery,NYSE,Germany,Healthcare,2022-01-01,AA,8,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0070,Matthews LLC,20,S&P,SNP,9,Long Term,LON,India,Automotive,2022-01-01,A,5,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0013,Williams Inc,30,Fitch,FTC,11,Short Term,SGX,Germany,Finance,2023-12-13,B,2,Improved financial stability,True,2023,12,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",20,S&P,SNP,9,Long Term,SGX,Uk,Energy,2023-02-01,B,2,Stable outlook maintained,True,2023,2,2022-10-22
+SEC0084,"Solis, Hutchinson and Morris",20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-07-12,AAA,10,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0087,Campbell-Mayer,10,Moody'S,MDY,7,Short Term,BSE,Germany,Finance,2022-06-24,A+,6,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0042,Gutierrez Group,10,Moody'S,MDY,7,Viability,NYSE,Usa,Energy,2022-07-25,AA+,9,Stable outlook maintained,False,2022,7,2022-01-01
+SEC0018,Herrera-Walters,30,Fitch,FTC,11,Long Term,BSE,India,Automotive,2025-04-23,BBB,4,Upgraded due to strong quarterly earnings,True,2025,4,2022-01-01
+SEC0004,Wallace-Collins,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-09-20,AA,8,Upgraded due to strong quarterly earnings,True,2022,9,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0011,Gibson-Moore,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2023-02-27,B,2,Downgraded after debt increase,False,2023,2,2022-01-01
+SEC0063,Wood-Stewart,30,Fitch,FTC,11,Short Term,NSE,Singapore,Energy,2023-09-05,AA,8,Upgraded due to strong quarterly earnings,False,2023,9,2022-01-01
+SEC0006,"Wilson, Rich and Miller",20,S&P,SNP,9,Short Term,NYSE,Germany,Automotive,2022-01-01,AA-,7,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2023-09-09,BB,3,Upgraded due to strong quarterly earnings,True,2023,9,2022-01-01
+SEC0073,"Davis, Knox and Hall",30,Fitch,FTC,11,Recovery,BSE,Singapore,Healthcare,2022-12-21,A+,6,Decreased liquidity ratio,True,2022,12,2022-12-21
+SEC0061,Garcia-Garcia,10,Moody'S,MDY,7,Viability,BSE,Germany,Automotive,2024-06-23,AA-,7,Downgraded after debt increase,True,2024,6,2022-01-01
+SEC0047,Garcia-Patrick,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-12-26,AA,8,Downgraded after debt increase,True,2022,12,2022-01-01
+SEC0046,Macdonald-Chavez,10,Moody'S,MDY,7,Long Term,SGX,Germany,Healthcare,2022-02-24,AA-,7,Downgraded after debt increase,False,2022,2,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",10,Moody'S,MDY,7,Recovery,NSE,Uk,Automotive,2022-11-19,AA+,9,Improved financial stability,False,2022,11,2022-01-01
+SEC0043,Dillon PLC,10,Moody'S,MDY,7,Recovery,BSE,India,Healthcare,2022-10-13,B,2,Improved financial stability,True,2022,10,2022-01-01
+SEC0003,"Clark, Martin and Wright",10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Energy,2022-05-07,AA-,7,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",20,S&P,SNP,9,Short Term,SGX,Singapore,Automotive,2022-10-12,AAA,10,Upgraded due to strong quarterly earnings,False,2022,10,2022-01-01
+SEC0052,Gilmore and Sons,20,S&P,SNP,9,Short Term,NYSE,Uk,Automotive,2022-09-18,B,2,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0058,Rosales Group,20,S&P,SNP,9,Viability,SGX,Singapore,Automotive,2022-01-01,AA,8,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",20,S&P,SNP,9,Viability,NYSE,Singapore,Finance,2024-04-05,AA-,7,Upgraded due to strong quarterly earnings,True,2024,4,2022-02-20
+SEC0095,"Wheeler, Norman and Rodriguez",30,Fitch,FTC,11,Recovery,NSE,Uk,Automotive,2022-04-28,BBB,4,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0036,Myers Inc,30,Fitch,FTC,11,Viability,BSE,Singapore,Technology,2022-07-18,AA+,9,Downgraded after debt increase,True,2022,7,2022-01-01
+SEC0072,Butler-Newton,30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2023-01-06,AAA,10,Downgraded after debt increase,False,2023,1,2022-01-01
+SEC0038,Rodriguez-Zimmerman,30,Fitch,FTC,11,Short Term,NSE,Uk,Energy,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,30,Fitch,FTC,11,Short Term,SGX,Usa,Healthcare,2025-06-06,AA+,9,Stable outlook maintained,True,2025,6,2022-01-01
+SEC0026,Hernandez Inc,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0058,Rosales Group,30,Fitch,FTC,11,Viability,SGX,Singapore,Automotive,2022-10-08,A,5,Downgraded after debt increase,False,2022,10,2022-01-01
+SEC0072,Butler-Newton,20,S&P,SNP,9,Viability,LON,Singapore,Finance,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,10,Moody'S,MDY,7,Short Term,SGX,Usa,Healthcare,2022-09-12,AAA,10,Downgraded after debt increase,False,2022,9,2022-01-01
+SEC0039,Nelson Inc,30,Fitch,FTC,11,Viability,NYSE,India,Energy,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0018,Herrera-Walters,10,Moody'S,MDY,7,Long Term,BSE,India,Automotive,2022-03-30,CCC,1,Decreased liquidity ratio,False,2022,3,2022-01-01
+SEC0002,Gonzalez-Garza,30,Fitch,FTC,11,Long Term,NSE,Usa,Energy,2022-08-08,A,5,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0054,Crawford Inc,30,Fitch,FTC,11,Short Term,SGX,Uk,Energy,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0061,Garcia-Garcia,30,Fitch,FTC,11,Viability,BSE,Germany,Automotive,2022-07-09,AA+,9,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0007,James and Sons,10,Moody'S,MDY,7,Viability,SGX,Singapore,Energy,2022-01-01,AA+,9,Improved financial stability,False,2022,1,2022-01-01
+SEC0027,Patterson-Nguyen,20,S&P,SNP,9,Short Term,SGX,Germany,Automotive,2023-09-17,B,2,Downgraded after debt increase,False,2023,9,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",20,S&P,SNP,9,Short Term,BSE,Uk,Automotive,2022-10-12,AAA,10,Stable outlook maintained,True,2022,10,2022-01-01
+SEC0028,"Black, Harper and Cox",10,Moody'S,MDY,7,Recovery,NYSE,India,Automotive,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0063,Wood-Stewart,20,S&P,SNP,9,Short Term,NSE,Singapore,Energy,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0037,"Hill, Rios and Bryant",10,Moody'S,MDY,7,Recovery,NSE,Uk,Technology,2022-10-17,AA-,7,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0098,Rivera PLC,20,S&P,SNP,9,Long Term,LON,Usa,Technology,2022-11-21,A,5,Improved financial stability,False,2022,11,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",10,Moody'S,MDY,7,Recovery,LON,Germany,Healthcare,2022-08-02,AAA,10,Improved financial stability,True,2022,8,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",20,S&P,SNP,9,Long Term,NSE,Singapore,Technology,2022-01-01,BB,3,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",30,Fitch,FTC,11,Recovery,NYSE,Uk,Healthcare,2023-09-03,BB,3,Decreased liquidity ratio,False,2023,9,2022-01-01
+SEC0079,Reyes-Garza,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2022-07-28,AA+,9,Downgraded after debt increase,False,2022,7,2022-06-30
+SEC0045,Jones-Leach,10,Moody'S,MDY,7,Short Term,NSE,India,Energy,2022-09-11,AA+,9,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0039,Nelson Inc,20,S&P,SNP,9,Viability,NYSE,India,Energy,2023-03-25,B,2,Decreased liquidity ratio,False,2023,3,2022-01-01
+SEC0068,Moran-Stanley,10,Moody'S,MDY,7,Short Term,BSE,Usa,Energy,2022-10-26,AAA,10,Improved financial stability,False,2022,10,2022-01-01
+SEC0071,Rogers-Nunez,10,Moody'S,MDY,7,Long Term,NSE,Uk,Automotive,2022-06-18,AA+,9,Improved financial stability,False,2022,6,2022-01-01
+SEC0038,Rodriguez-Zimmerman,10,Moody'S,MDY,7,Short Term,NSE,Uk,Energy,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0041,Hansen LLC,10,Moody'S,MDY,7,Viability,NYSE,Singapore,Technology,2022-09-13,AA+,9,Downgraded after debt increase,False,2022,9,2022-01-01
+SEC0008,Goodwin-Donaldson,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",10,Moody'S,MDY,7,Short Term,BSE,Uk,Automotive,2022-07-24,CCC,1,Decreased liquidity ratio,False,2022,7,2022-01-01
+SEC0049,West-Mullen,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2023-11-20,BBB,4,Upgraded due to strong quarterly earnings,False,2023,11,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",10,Moody'S,MDY,7,Long Term,SGX,Uk,Energy,2022-07-14,A+,6,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0011,Gibson-Moore,30,Fitch,FTC,11,Long Term,BSE,Usa,Technology,2022-05-24,AA-,7,Downgraded after debt increase,True,2022,5,2022-01-01
+SEC0041,Hansen LLC,30,Fitch,FTC,11,Viability,NYSE,Singapore,Technology,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0009,Anderson LLC,20,S&P,SNP,9,Recovery,BSE,Uk,Energy,2023-08-02,A+,6,Decreased liquidity ratio,False,2023,8,2022-03-09
+SEC0096,Collins PLC,20,S&P,SNP,9,Short Term,SGX,Singapore,Finance,2023-06-25,CCC,1,Downgraded after debt increase,False,2023,6,2022-01-01
+SEC0091,Freeman Group,30,Fitch,FTC,11,Long Term,BSE,Usa,Technology,2022-08-29,B,2,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",30,Fitch,FTC,11,Long Term,NSE,Singapore,Technology,2023-11-12,AA+,9,Upgraded due to strong quarterly earnings,True,2023,11,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",10,Moody'S,MDY,7,Viability,NYSE,Singapore,Finance,2022-08-17,AA-,7,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0002,Gonzalez-Garza,10,Moody'S,MDY,7,Long Term,NSE,Usa,Energy,2023-06-15,B,2,Improved financial stability,False,2023,6,2022-01-01
+SEC0039,Nelson Inc,30,Fitch,FTC,11,Viability,NYSE,India,Energy,2022-02-09,BB,3,Improved financial stability,True,2022,2,2022-01-01
+SEC0091,Freeman Group,30,Fitch,FTC,11,Long Term,BSE,Usa,Technology,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2022-07-18,B,2,Improved financial stability,False,2022,7,2022-01-01
+SEC0004,Wallace-Collins,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0017,Brown Inc,10,Moody'S,MDY,7,Viability,NSE,Germany,Healthcare,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0041,Hansen LLC,20,S&P,SNP,9,Viability,NYSE,Singapore,Technology,2022-02-19,AAA,10,Upgraded due to strong quarterly earnings,True,2022,2,2022-01-01
+SEC0080,Rios-Bates,20,S&P,SNP,9,Short Term,NYSE,Singapore,Automotive,2023-05-29,AA,8,Decreased liquidity ratio,True,2023,5,2022-01-01
+SEC0042,Gutierrez Group,20,S&P,SNP,9,Viability,NYSE,Usa,Energy,2023-03-09,A,5,Upgraded due to strong quarterly earnings,True,2023,3,2022-01-01
+SEC0053,Brandt-Harper,20,S&P,SNP,9,Long Term,LON,Germany,Healthcare,2024-11-14,AA+,9,Improved financial stability,True,2024,11,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",10,Moody'S,MDY,7,Short Term,BSE,Uk,Automotive,2024-04-26,B,2,Upgraded due to strong quarterly earnings,True,2024,4,2022-01-01
+SEC0098,Rivera PLC,30,Fitch,FTC,11,Long Term,LON,Usa,Technology,2022-11-15,AA,8,Stable outlook maintained,True,2022,11,2022-01-01
+SEC0072,Butler-Newton,20,S&P,SNP,9,Viability,LON,Singapore,Finance,2023-03-05,A+,6,Decreased liquidity ratio,True,2023,3,2022-01-01
+SEC0078,Meadows-Christensen,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2023-11-26,AAA,10,Upgraded due to strong quarterly earnings,True,2023,11,2022-01-01
+SEC0026,Hernandez Inc,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0033,Watson-Chang,20,S&P,SNP,9,Recovery,BSE,Singapore,Technology,2022-05-19,CCC,1,Improved financial stability,False,2022,5,2022-01-01
+SEC0002,Gonzalez-Garza,20,S&P,SNP,9,Long Term,NSE,Usa,Energy,2022-06-28,AA+,9,Decreased liquidity ratio,False,2022,6,2022-01-01
+SEC0067,Poole LLC,30,Fitch,FTC,11,Recovery,SGX,Uk,Technology,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",10,Moody'S,MDY,7,Long Term,SGX,India,Automotive,2022-10-31,AAA,10,Improved financial stability,True,2022,10,2022-01-01
+SEC0080,Rios-Bates,30,Fitch,FTC,11,Short Term,NYSE,Singapore,Automotive,2022-08-20,BB,3,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0022,"Allen, Wood and Young",10,Moody'S,MDY,7,Long Term,NSE,Uk,Technology,2022-08-01,CCC,1,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0018,Herrera-Walters,20,S&P,SNP,9,Long Term,BSE,India,Automotive,2022-04-24,A+,6,Improved financial stability,False,2022,4,2022-01-01
+SEC0010,Barton Group,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Energy,2022-06-04,BBB,4,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0050,Matthews Inc,30,Fitch,FTC,11,Recovery,SGX,Germany,Energy,2025-03-06,AA-,7,Improved financial stability,True,2025,3,2022-01-01
+SEC0003,"Clark, Martin and Wright",10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Energy,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0035,Moran Inc,30,Fitch,FTC,11,Short Term,NYSE,India,Technology,2022-06-30,BB,3,Stable outlook maintained,False,2022,6,2022-01-01
+SEC0070,Matthews LLC,30,Fitch,FTC,11,Long Term,LON,India,Automotive,2024-06-15,AA+,9,Stable outlook maintained,True,2024,6,2022-01-01
+SEC0091,Freeman Group,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2022-05-16,BBB,4,Downgraded after debt increase,True,2022,5,2022-02-25
+SEC0074,Moyer PLC,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-06-20,AA-,7,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0034,Booker-Elliott,10,Moody'S,MDY,7,Recovery,NSE,Usa,Healthcare,2022-01-01,B,2,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0042,Gutierrez Group,30,Fitch,FTC,11,Viability,NYSE,Usa,Energy,2025-09-14,AA,8,Upgraded due to strong quarterly earnings,True,2025,9,2022-01-01
+SEC0060,Kelly Group,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2024-08-30,AA,8,Improved financial stability,True,2024,8,2022-01-01
+SEC0088,Anderson Group,20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0020,Smith Ltd,10,Moody'S,MDY,7,Viability,BSE,Usa,Finance,2023-03-06,BBB,4,Decreased liquidity ratio,False,2023,3,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",20,S&P,SNP,9,Recovery,NSE,Uk,Automotive,2024-02-23,AA+,9,Improved financial stability,False,2024,2,2022-01-01
+SEC0009,Anderson LLC,30,Fitch,FTC,11,Recovery,BSE,Uk,Energy,2022-12-31,B,2,Improved financial stability,False,2022,12,2022-01-01
+SEC0060,Kelly Group,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2023-02-03,AA,8,Downgraded after debt increase,False,2023,2,2022-01-01
+SEC0007,James and Sons,20,S&P,SNP,9,Viability,SGX,Singapore,Energy,2023-12-28,B,2,Improved financial stability,False,2023,12,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",30,Fitch,FTC,11,Viability,NYSE,Singapore,Finance,2023-04-02,B,2,Upgraded due to strong quarterly earnings,True,2023,4,2022-01-01
+SEC0028,"Black, Harper and Cox",20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2024-02-08,BB,3,Stable outlook maintained,True,2024,2,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2024-11-01,AA,8,Upgraded due to strong quarterly earnings,False,2024,11,2022-01-01
+SEC0043,Dillon PLC,10,Moody'S,MDY,7,Recovery,BSE,India,Healthcare,2023-09-25,BBB,4,Upgraded due to strong quarterly earnings,False,2023,9,2022-01-01
+SEC0015,Moore PLC,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-12-19,AA-,7,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0008,Goodwin-Donaldson,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2022-11-23,B,2,Improved financial stability,False,2022,11,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2022-01-01,AA,8,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",10,Moody'S,MDY,7,Recovery,LON,Singapore,Finance,2022-12-19,AAA,10,Stable outlook maintained,True,2022,12,2022-01-01
+SEC0044,Bishop-Sutton,20,S&P,SNP,9,Short Term,SGX,Usa,Healthcare,2022-01-01,AA-,7,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0019,Adams PLC,10,Moody'S,MDY,7,Long Term,LON,India,Healthcare,2023-05-20,AA,8,Stable outlook maintained,False,2023,5,2022-01-01
+SEC0027,Patterson-Nguyen,20,S&P,SNP,9,Short Term,SGX,Germany,Automotive,2022-10-05,A,5,Upgraded due to strong quarterly earnings,False,2022,10,2022-01-01
+SEC0023,Brown-Lloyd,30,Fitch,FTC,11,Short Term,BSE,India,Automotive,2022-01-01,AA,8,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0048,Clay Ltd,10,Moody'S,MDY,7,Long Term,BSE,Singapore,Automotive,2023-12-01,B,2,Downgraded after debt increase,False,2023,12,2022-01-01
+SEC0097,"Hill, Lopez and Allen",30,Fitch,FTC,11,Viability,NYSE,Uk,Finance,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0055,Castro Ltd,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Healthcare,2022-02-25,A+,6,Downgraded after debt increase,False,2022,2,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",20,S&P,SNP,9,Short Term,BSE,Uk,Energy,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0086,Miller and Sons,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-11-17,AA+,9,Stable outlook maintained,False,2022,11,2022-01-01
+SEC0050,Matthews Inc,10,Moody'S,MDY,7,Recovery,SGX,Germany,Energy,2023-04-02,B,2,Improved financial stability,False,2023,4,2022-05-06
+SEC0060,Kelly Group,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2022-02-19,AAA,10,Upgraded due to strong quarterly earnings,False,2022,2,2022-01-01
+SEC0075,Foster-Adams,20,S&P,SNP,9,Recovery,BSE,Germany,Healthcare,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0013,Williams Inc,10,Moody'S,MDY,7,Short Term,SGX,Germany,Finance,2023-08-21,CCC,1,Upgraded due to strong quarterly earnings,True,2023,8,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",10,Moody'S,MDY,7,Short Term,BSE,Uk,Energy,2022-06-22,AA+,9,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0046,Macdonald-Chavez,30,Fitch,FTC,11,Long Term,SGX,Germany,Healthcare,2022-01-01,CCC,1,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0075,Foster-Adams,20,S&P,SNP,9,Recovery,BSE,Germany,Healthcare,2022-09-21,AA-,7,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0006,"Wilson, Rich and Miller",20,S&P,SNP,9,Short Term,NYSE,Germany,Automotive,2022-10-06,AA-,7,Stable outlook maintained,True,2022,10,2022-01-01
+SEC0059,Bailey-Larson,20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2022-01-01,AA+,9,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",20,S&P,SNP,9,Long Term,LON,India,Finance,2022-03-30,CCC,1,Decreased liquidity ratio,True,2022,3,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",30,Fitch,FTC,11,Recovery,NSE,Uk,Automotive,2022-05-17,B,2,Improved financial stability,False,2022,5,2022-01-01
+SEC0037,"Hill, Rios and Bryant",10,Moody'S,MDY,7,Recovery,NSE,Uk,Technology,2023-07-07,AA-,7,Improved financial stability,False,2023,7,2022-01-01
+SEC0027,Patterson-Nguyen,10,Moody'S,MDY,7,Short Term,SGX,Germany,Automotive,2022-07-24,B,2,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",10,Moody'S,MDY,7,Short Term,NSE,Uk,Automotive,2022-10-30,AA,8,Decreased liquidity ratio,True,2022,10,2022-01-01
+SEC0035,Moran Inc,10,Moody'S,MDY,7,Short Term,NYSE,India,Technology,2022-12-26,AAA,10,Improved financial stability,True,2022,12,2022-01-01
+SEC0019,Adams PLC,20,S&P,SNP,9,Long Term,LON,India,Healthcare,2024-03-19,AAA,10,Downgraded after debt increase,True,2024,3,2022-01-01
+SEC0010,Barton Group,20,S&P,SNP,9,Short Term,NYSE,Uk,Energy,2022-09-14,B,2,Downgraded after debt increase,False,2022,9,2022-01-01
+SEC0090,Goodman Group,10,Moody'S,MDY,7,Recovery,NSE,Singapore,Healthcare,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",10,Moody'S,MDY,7,Short Term,NYSE,Uk,Automotive,2024-05-06,A,5,Decreased liquidity ratio,True,2024,5,2022-01-01
+SEC0088,Anderson Group,20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2022-04-15,AA-,7,Stable outlook maintained,True,2022,4,2022-01-01
+SEC0078,Meadows-Christensen,20,S&P,SNP,9,Short Term,SGX,Singapore,Automotive,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0026,Hernandez Inc,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2022-12-19,BB,3,Improved financial stability,True,2022,12,2022-01-01
+SEC0080,Rios-Bates,10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Automotive,2022-01-01,AAA,10,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0044,Bishop-Sutton,10,Moody'S,MDY,7,Short Term,SGX,Usa,Healthcare,2022-01-01,CCC,1,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0071,Rogers-Nunez,30,Fitch,FTC,11,Long Term,NSE,Uk,Automotive,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0030,Lamb Group,20,S&P,SNP,9,Recovery,SGX,Usa,Finance,2022-03-10,CCC,1,Improved financial stability,False,2022,3,2022-01-01
+SEC0034,Booker-Elliott,10,Moody'S,MDY,7,Recovery,NSE,Usa,Healthcare,2022-04-30,AA+,9,Improved financial stability,False,2022,4,2022-01-01
+SEC0068,Moran-Stanley,30,Fitch,FTC,11,Short Term,BSE,Usa,Energy,2022-01-01,A+,6,Improved financial stability,False,2022,1,2022-01-01
+SEC0031,Moore-Bullock,20,S&P,SNP,9,Long Term,SGX,India,Energy,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0015,Moore PLC,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2024-02-14,AA,8,Downgraded after debt increase,False,2024,2,2022-01-01
+SEC0013,Williams Inc,10,Moody'S,MDY,7,Short Term,SGX,Germany,Finance,2022-10-24,B,2,Decreased liquidity ratio,False,2022,10,2022-01-01
+SEC0083,Curtis PLC,20,S&P,SNP,9,Short Term,SGX,Uk,Automotive,2022-07-22,AA+,9,Stable outlook maintained,True,2022,7,2022-01-01
+SEC0086,Miller and Sons,30,Fitch,FTC,11,Viability,SGX,Germany,Finance,2022-11-10,BBB,4,Decreased liquidity ratio,False,2022,11,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",20,S&P,SNP,9,Short Term,NSE,Uk,Automotive,2023-07-22,BBB,4,Upgraded due to strong quarterly earnings,False,2023,7,2022-01-01
+SEC0035,Moran Inc,20,S&P,SNP,9,Short Term,NYSE,India,Technology,2022-11-12,AA+,9,Decreased liquidity ratio,False,2022,11,2022-01-01
+SEC0097,"Hill, Lopez and Allen",10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0015,Moore PLC,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-03-26,BBB,4,Decreased liquidity ratio,False,2022,3,2022-01-01
+SEC0046,Macdonald-Chavez,10,Moody'S,MDY,7,Long Term,SGX,Germany,Healthcare,2022-07-06,AA+,9,Downgraded after debt increase,True,2022,7,2022-01-01
+SEC0040,Fox Group,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2023-11-24,BB,3,Upgraded due to strong quarterly earnings,False,2023,11,2022-01-01
+SEC0067,Poole LLC,10,Moody'S,MDY,7,Recovery,SGX,Uk,Technology,2023-06-25,A,5,Decreased liquidity ratio,False,2023,6,2022-01-01
+SEC0031,Moore-Bullock,30,Fitch,FTC,11,Long Term,SGX,India,Energy,2024-09-14,BBB,4,Upgraded due to strong quarterly earnings,True,2024,9,2022-01-01
+SEC0002,Gonzalez-Garza,30,Fitch,FTC,11,Long Term,NSE,Usa,Energy,2022-11-29,AA+,9,Stable outlook maintained,False,2022,11,2022-01-01
+SEC0086,Miller and Sons,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-04-26,A,5,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",30,Fitch,FTC,11,Short Term,BSE,Uk,Automotive,2022-05-04,AA,8,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0085,Wilson-Robbins,10,Moody'S,MDY,7,Recovery,BSE,Germany,Automotive,2022-09-25,BB,3,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0040,Fox Group,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0052,Gilmore and Sons,30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-11-24,AA,8,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",10,Moody'S,MDY,7,Long Term,NSE,Singapore,Technology,2023-10-17,AAA,10,Improved financial stability,False,2023,10,2022-01-01
+SEC0004,Wallace-Collins,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2024-11-14,AAA,10,Upgraded due to strong quarterly earnings,True,2024,11,2022-02-05
+SEC0018,Herrera-Walters,10,Moody'S,MDY,7,Long Term,BSE,India,Automotive,2022-01-01,AA,8,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0024,Hardy-Sims,20,S&P,SNP,9,Long Term,SGX,Germany,Energy,2022-02-10,A+,6,Stable outlook maintained,True,2022,2,2022-01-01
+SEC0087,Campbell-Mayer,30,Fitch,FTC,11,Short Term,BSE,Germany,Finance,2022-01-01,AA-,7,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0082,Ballard and Sons,30,Fitch,FTC,11,Short Term,LON,Uk,Finance,2023-11-10,AA+,9,Improved financial stability,False,2023,11,2022-01-01
+SEC0085,Wilson-Robbins,10,Moody'S,MDY,7,Recovery,BSE,Germany,Automotive,2022-09-11,AA-,7,Improved financial stability,False,2022,9,2022-01-01
+SEC0096,Collins PLC,30,Fitch,FTC,11,Short Term,SGX,Singapore,Finance,2023-04-12,BB,3,Downgraded after debt increase,True,2023,4,2022-01-01
+SEC0015,Moore PLC,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2023-08-27,A,5,Stable outlook maintained,True,2023,8,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",10,Moody'S,MDY,7,Recovery,NYSE,Usa,Technology,2022-05-22,AA-,7,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0064,Barnes PLC,10,Moody'S,MDY,7,Recovery,NSE,Usa,Finance,2023-05-29,AA-,7,Improved financial stability,False,2023,5,2022-01-01
+SEC0029,"Rice, Perez and Calderon",10,Moody'S,MDY,7,Long Term,NSE,India,Technology,2022-01-01,A+,6,Improved financial stability,False,2022,1,2022-01-01
+SEC0061,Garcia-Garcia,10,Moody'S,MDY,7,Viability,BSE,Germany,Automotive,2022-08-24,AA+,9,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",10,Moody'S,MDY,7,Recovery,NYSE,Uk,Healthcare,2022-12-07,AAA,10,Stable outlook maintained,True,2022,12,2022-01-01
+SEC0056,Smith-Galloway,10,Moody'S,MDY,7,Long Term,LON,Singapore,Healthcare,2022-07-26,AA-,7,Stable outlook maintained,True,2022,7,2022-01-01
+SEC0079,Reyes-Garza,10,Moody'S,MDY,7,Viability,SGX,Uk,Automotive,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0002,Gonzalez-Garza,30,Fitch,FTC,11,Long Term,NSE,Usa,Energy,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0013,Williams Inc,20,S&P,SNP,9,Short Term,SGX,Germany,Finance,2022-01-01,B,2,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",10,Moody'S,MDY,7,Long Term,SGX,India,Automotive,2022-12-22,BB,3,Upgraded due to strong quarterly earnings,False,2022,12,2022-01-01
+SEC0025,Johnson PLC,30,Fitch,FTC,11,Viability,SGX,Usa,Healthcare,2023-09-07,BB,3,Downgraded after debt increase,False,2023,9,2022-01-01
+SEC0070,Matthews LLC,10,Moody'S,MDY,7,Long Term,LON,India,Automotive,2022-01-01,AA,8,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",20,S&P,SNP,9,Long Term,NSE,Germany,Healthcare,2022-01-01,CCC,1,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0019,Adams PLC,10,Moody'S,MDY,7,Long Term,LON,India,Healthcare,2025-05-05,BB,3,Downgraded after debt increase,True,2025,5,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",10,Moody'S,MDY,7,Short Term,BSE,Uk,Energy,2022-01-01,BBB,4,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",10,Moody'S,MDY,7,Recovery,LON,Germany,Healthcare,2022-08-26,BB,3,Stable outlook maintained,False,2022,8,2022-01-01
+SEC0059,Bailey-Larson,20,S&P,SNP,9,Viability,NYSE,Uk,Finance,2024-12-04,AA-,7,Improved financial stability,True,2024,12,2022-01-01
+SEC0018,Herrera-Walters,20,S&P,SNP,9,Long Term,BSE,India,Automotive,2023-10-15,AAA,10,Upgraded due to strong quarterly earnings,True,2023,10,2022-01-01
+SEC0030,Lamb Group,10,Moody'S,MDY,7,Recovery,SGX,Usa,Finance,2023-03-30,BBB,4,Stable outlook maintained,True,2023,3,2022-01-01
+SEC0080,Rios-Bates,30,Fitch,FTC,11,Short Term,NYSE,Singapore,Automotive,2023-10-13,A+,6,Downgraded after debt increase,True,2023,10,2022-01-01
+SEC0087,Campbell-Mayer,30,Fitch,FTC,11,Short Term,BSE,Germany,Finance,2022-08-07,CCC,1,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0090,Goodman Group,10,Moody'S,MDY,7,Recovery,NSE,Singapore,Healthcare,2022-11-11,AA+,9,Downgraded after debt increase,False,2022,11,2022-01-01
+SEC0072,Butler-Newton,30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2022-01-01,CCC,1,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0088,Anderson Group,30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2024-09-26,CCC,1,Improved financial stability,False,2024,9,2022-07-16
+SEC0050,Matthews Inc,30,Fitch,FTC,11,Recovery,SGX,Germany,Energy,2022-01-01,A,5,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0037,"Hill, Rios and Bryant",20,S&P,SNP,9,Recovery,NSE,Uk,Technology,2022-09-07,B,2,Stable outlook maintained,True,2022,9,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",10,Moody'S,MDY,7,Short Term,NSE,Uk,Automotive,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",20,S&P,SNP,9,Recovery,NSE,Uk,Automotive,2023-12-22,AAA,10,Upgraded due to strong quarterly earnings,True,2023,12,2022-01-01
+SEC0016,Ingram Inc,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2023-09-07,BB,3,Downgraded after debt increase,False,2023,9,2022-01-01
+SEC0079,Reyes-Garza,10,Moody'S,MDY,7,Viability,SGX,Uk,Automotive,2022-11-05,A,5,Stable outlook maintained,True,2022,11,2022-01-01
+SEC0017,Brown Inc,20,S&P,SNP,9,Viability,NSE,Germany,Healthcare,2023-03-25,A+,6,Downgraded after debt increase,False,2023,3,2022-01-01
+SEC0002,Gonzalez-Garza,20,S&P,SNP,9,Long Term,NSE,Usa,Energy,2022-06-12,BBB,4,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0050,Matthews Inc,10,Moody'S,MDY,7,Recovery,SGX,Germany,Energy,2022-05-06,BB,3,Stable outlook maintained,False,2022,5,2022-05-06
+SEC0005,"Mcdonald, Mcguire and Wyatt",20,S&P,SNP,9,Short Term,NSE,Uk,Automotive,2022-10-28,CCC,1,Downgraded after debt increase,False,2022,10,2022-01-01
+SEC0019,Adams PLC,20,S&P,SNP,9,Long Term,LON,India,Healthcare,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0088,Anderson Group,30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2024-10-05,AA,8,Decreased liquidity ratio,True,2024,10,2022-07-16
+SEC0050,Matthews Inc,20,S&P,SNP,9,Recovery,SGX,Germany,Energy,2022-05-13,AA+,9,Decreased liquidity ratio,False,2022,5,2022-01-01
+SEC0072,Butler-Newton,10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2023-05-17,A+,6,Upgraded due to strong quarterly earnings,False,2023,5,2022-01-01
+SEC0091,Freeman Group,10,Moody'S,MDY,7,Long Term,BSE,Usa,Technology,2022-02-25,AA,8,Stable outlook maintained,False,2022,2,2022-02-25
+SEC0047,Garcia-Patrick,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0028,"Black, Harper and Cox",20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2023-08-18,B,2,Downgraded after debt increase,False,2023,8,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",20,S&P,SNP,9,Long Term,LON,India,Finance,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",30,Fitch,FTC,11,Recovery,LON,Germany,Healthcare,2022-01-01,CCC,1,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0022,"Allen, Wood and Young",20,S&P,SNP,9,Long Term,NSE,Uk,Technology,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0003,"Clark, Martin and Wright",20,S&P,SNP,9,Short Term,NYSE,Singapore,Energy,2022-01-01,BB,3,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0087,Campbell-Mayer,30,Fitch,FTC,11,Short Term,BSE,Germany,Finance,2022-09-18,B,2,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0043,Dillon PLC,20,S&P,SNP,9,Recovery,BSE,India,Healthcare,2022-08-04,A+,6,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0098,Rivera PLC,20,S&P,SNP,9,Long Term,LON,Usa,Technology,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0036,Myers Inc,20,S&P,SNP,9,Viability,BSE,Singapore,Technology,2022-03-21,A,5,Decreased liquidity ratio,True,2022,3,2022-01-01
+SEC0022,"Allen, Wood and Young",30,Fitch,FTC,11,Long Term,NSE,Uk,Technology,2022-12-17,AA-,7,Upgraded due to strong quarterly earnings,True,2022,12,2022-01-01
+SEC0004,Wallace-Collins,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2023-06-25,BBB,4,Decreased liquidity ratio,False,2023,6,2022-02-05
+SEC0064,Barnes PLC,30,Fitch,FTC,11,Recovery,NSE,Usa,Finance,2022-06-24,AA,8,Stable outlook maintained,False,2022,6,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",20,S&P,SNP,9,Long Term,NSE,Germany,Healthcare,2022-02-19,AA,8,Upgraded due to strong quarterly earnings,False,2022,2,2022-01-01
+SEC0037,"Hill, Rios and Bryant",30,Fitch,FTC,11,Recovery,NSE,Uk,Technology,2022-05-03,A+,6,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0046,Macdonald-Chavez,10,Moody'S,MDY,7,Long Term,SGX,Germany,Healthcare,2023-12-16,CCC,1,Downgraded after debt increase,False,2023,12,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",20,S&P,SNP,9,Long Term,NSE,Germany,Healthcare,2023-04-18,AA,8,Stable outlook maintained,False,2023,4,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",20,S&P,SNP,9,Viability,NYSE,Singapore,Finance,2022-02-20,AA+,9,Decreased liquidity ratio,False,2022,2,2022-02-20
+SEC0089,Trevino-Wilson,30,Fitch,FTC,11,Viability,LON,Uk,Energy,2022-03-18,AA-,7,Upgraded due to strong quarterly earnings,True,2022,3,2022-01-01
+SEC0074,Moyer PLC,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-12-12,CCC,1,Improved financial stability,False,2022,12,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2022-08-19,CCC,1,Improved financial stability,False,2022,8,2022-01-01
+SEC0019,Adams PLC,20,S&P,SNP,9,Long Term,LON,India,Healthcare,2024-08-21,CCC,1,Downgraded after debt increase,False,2024,8,2022-01-01
+SEC0090,Goodman Group,20,S&P,SNP,9,Recovery,NSE,Singapore,Healthcare,2022-01-01,AA-,7,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0091,Freeman Group,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-08-01,AAA,10,Stable outlook maintained,True,2022,8,2022-01-01
+SEC0049,West-Mullen,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-01-01,AA,8,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",20,S&P,SNP,9,Long Term,NSE,Germany,Healthcare,2024-10-20,BBB,4,Improved financial stability,False,2024,10,2022-01-01
+SEC0087,Campbell-Mayer,30,Fitch,FTC,11,Short Term,BSE,Germany,Finance,2022-11-18,AAA,10,Downgraded after debt increase,True,2022,11,2022-01-01
+SEC0057,"Payne, Olsen and Gilmore",10,Moody'S,MDY,7,Recovery,LON,Singapore,Finance,2022-01-01,CCC,1,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0016,Ingram Inc,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",30,Fitch,FTC,11,Recovery,NYSE,Uk,Healthcare,2023-03-12,A+,6,Decreased liquidity ratio,True,2023,3,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",10,Moody'S,MDY,7,Viability,LON,Uk,Finance,2022-04-10,AA,8,Downgraded after debt increase,True,2022,4,2022-01-01
+SEC0016,Ingram Inc,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2023-09-03,B,2,Stable outlook maintained,False,2023,9,2022-01-01
+SEC0068,Moran-Stanley,10,Moody'S,MDY,7,Short Term,BSE,Usa,Energy,2022-01-01,B,2,Improved financial stability,False,2022,1,2022-01-01
+SEC0074,Moyer PLC,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-11-01,CCC,1,Improved financial stability,False,2022,11,2022-01-01
+SEC0015,Moore PLC,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-06-20,BB,3,Improved financial stability,False,2022,6,2022-01-01
+SEC0072,Butler-Newton,10,Moody'S,MDY,7,Viability,LON,Singapore,Finance,2025-02-02,AA,8,Improved financial stability,True,2025,2,2022-01-01
+SEC0090,Goodman Group,10,Moody'S,MDY,7,Recovery,NSE,Singapore,Healthcare,2022-09-19,B,2,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0098,Rivera PLC,10,Moody'S,MDY,7,Long Term,LON,Usa,Technology,2022-10-22,CCC,1,Stable outlook maintained,False,2022,10,2022-01-01
+SEC0011,Gibson-Moore,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-05-02,A,5,Downgraded after debt increase,False,2022,5,2022-01-01
+SEC0022,"Allen, Wood and Young",20,S&P,SNP,9,Long Term,NSE,Uk,Technology,2022-09-14,A+,6,Stable outlook maintained,False,2022,9,2022-01-01
+SEC0072,Butler-Newton,30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2023-08-24,CCC,1,Downgraded after debt increase,False,2023,8,2022-01-01
+SEC0010,Barton Group,20,S&P,SNP,9,Short Term,NYSE,Uk,Energy,2023-09-27,AAA,10,Improved financial stability,True,2023,9,2022-01-01
+SEC0042,Gutierrez Group,10,Moody'S,MDY,7,Viability,NYSE,Usa,Energy,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0041,Hansen LLC,30,Fitch,FTC,11,Viability,NYSE,Singapore,Technology,2023-06-17,CCC,1,Stable outlook maintained,False,2023,6,2022-01-01
+SEC0079,Reyes-Garza,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2024-09-20,A,5,Stable outlook maintained,True,2024,9,2022-06-30
+SEC0057,"Payne, Olsen and Gilmore",30,Fitch,FTC,11,Recovery,LON,Singapore,Finance,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0082,Ballard and Sons,30,Fitch,FTC,11,Short Term,LON,Uk,Finance,2022-11-25,A,5,Upgraded due to strong quarterly earnings,True,2022,11,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",10,Moody'S,MDY,7,Recovery,NYSE,Uk,Healthcare,2022-05-24,BBB,4,Upgraded due to strong quarterly earnings,False,2022,5,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",20,S&P,SNP,9,Short Term,BSE,Uk,Energy,2022-06-28,A+,6,Decreased liquidity ratio,False,2022,6,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",30,Fitch,FTC,11,Short Term,NSE,Uk,Automotive,2022-07-23,AAA,10,Stable outlook maintained,True,2022,7,2022-01-01
+SEC0015,Moore PLC,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-01-01,BB,3,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0040,Fox Group,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2022-07-08,A,5,Decreased liquidity ratio,False,2022,7,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",10,Moody'S,MDY,7,Long Term,SGX,Uk,Energy,2023-11-10,AA+,9,Decreased liquidity ratio,True,2023,11,2022-01-01
+SEC0020,Smith Ltd,20,S&P,SNP,9,Viability,BSE,Usa,Finance,2023-02-25,BB,3,Upgraded due to strong quarterly earnings,False,2023,2,2022-09-05
+SEC0063,Wood-Stewart,30,Fitch,FTC,11,Short Term,NSE,Singapore,Energy,2024-07-13,B,2,Decreased liquidity ratio,True,2024,7,2022-01-01
+SEC0089,Trevino-Wilson,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-11-24,AA+,9,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",10,Moody'S,MDY,7,Long Term,NSE,Singapore,Technology,2024-03-03,A,5,Improved financial stability,False,2024,3,2022-01-01
+SEC0001,Guerra Inc,30,Fitch,FTC,11,Short Term,LON,India,Finance,2023-02-13,A+,6,Decreased liquidity ratio,True,2023,2,2022-01-01
+SEC0097,"Hill, Lopez and Allen",10,Moody'S,MDY,7,Viability,NYSE,Uk,Finance,2022-05-06,BB,3,Improved financial stability,False,2022,5,2022-01-01
+SEC0004,Wallace-Collins,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-11-29,A,5,Improved financial stability,False,2022,11,2022-02-05
+SEC0044,Bishop-Sutton,30,Fitch,FTC,11,Short Term,SGX,Usa,Healthcare,2022-07-20,A+,6,Improved financial stability,False,2022,7,2022-01-01
+SEC0063,Wood-Stewart,10,Moody'S,MDY,7,Short Term,NSE,Singapore,Energy,2022-03-04,B,2,Improved financial stability,True,2022,3,2022-01-01
+SEC0025,Johnson PLC,30,Fitch,FTC,11,Viability,SGX,Usa,Healthcare,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0030,Lamb Group,20,S&P,SNP,9,Recovery,SGX,Usa,Finance,2022-02-11,BBB,4,Upgraded due to strong quarterly earnings,False,2022,2,2022-01-01
+SEC0079,Reyes-Garza,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-09-05,AA+,9,Decreased liquidity ratio,True,2022,9,2022-01-01
+SEC0056,Smith-Galloway,20,S&P,SNP,9,Long Term,LON,Singapore,Healthcare,2022-02-19,AA,8,Upgraded due to strong quarterly earnings,False,2022,2,2022-01-01
+SEC0060,Kelly Group,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-05-29,A,5,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0074,Moyer PLC,30,Fitch,FTC,11,Viability,SGX,Uk,Automotive,2024-06-03,BBB,4,Downgraded after debt increase,True,2024,6,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",20,S&P,SNP,9,Long Term,LON,India,Finance,2022-12-24,BBB,4,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",30,Fitch,FTC,11,Short Term,BSE,Uk,Automotive,2022-05-14,AA,8,Upgraded due to strong quarterly earnings,False,2022,5,2022-01-01
+SEC0026,Hernandez Inc,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2023-12-16,AA+,9,Decreased liquidity ratio,False,2023,12,2022-01-01
+SEC0060,Kelly Group,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-07-14,A+,6,Improved financial stability,False,2022,7,2022-01-01
+SEC0029,"Rice, Perez and Calderon",30,Fitch,FTC,11,Long Term,NSE,India,Technology,2023-06-21,A+,6,Stable outlook maintained,True,2023,6,2022-01-01
+SEC0041,Hansen LLC,10,Moody'S,MDY,7,Viability,NYSE,Singapore,Technology,2024-09-23,AAA,10,Upgraded due to strong quarterly earnings,True,2024,9,2022-01-01
+SEC0015,Moore PLC,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2024-11-06,A+,6,Decreased liquidity ratio,True,2024,11,2022-01-01
+SEC0083,Curtis PLC,30,Fitch,FTC,11,Short Term,SGX,Uk,Automotive,2022-04-12,AA-,7,Upgraded due to strong quarterly earnings,False,2022,4,2022-01-01
+SEC0074,Moyer PLC,10,Moody'S,MDY,7,Viability,SGX,Uk,Automotive,2022-01-01,CCC,1,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",10,Moody'S,MDY,7,Recovery,NYSE,Usa,Technology,2024-06-19,A,5,Improved financial stability,False,2024,6,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",30,Fitch,FTC,11,Short Term,BSE,Uk,Automotive,2023-02-13,AA+,9,Stable outlook maintained,True,2023,2,2022-01-01
+SEC0054,Crawford Inc,10,Moody'S,MDY,7,Short Term,SGX,Uk,Energy,2022-07-04,A+,6,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0083,Curtis PLC,30,Fitch,FTC,11,Short Term,SGX,Uk,Automotive,2025-09-26,A+,6,Improved financial stability,True,2025,9,2022-01-01
+SEC0048,Clay Ltd,10,Moody'S,MDY,7,Long Term,BSE,Singapore,Automotive,2023-09-29,AAA,10,Decreased liquidity ratio,True,2023,9,2022-01-01
+SEC0068,Moran-Stanley,20,S&P,SNP,9,Short Term,BSE,Usa,Energy,2022-01-01,AAA,10,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0015,Moore PLC,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2022-07-12,BB,3,Stable outlook maintained,False,2022,7,2022-01-01
+SEC0015,Moore PLC,20,S&P,SNP,9,Viability,SGX,Germany,Automotive,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",30,Fitch,FTC,11,Long Term,LON,India,Finance,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0034,Booker-Elliott,20,S&P,SNP,9,Recovery,NSE,Usa,Healthcare,2022-07-08,BBB,4,Stable outlook maintained,True,2022,7,2022-04-30
+SEC0078,Meadows-Christensen,30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2022-09-15,BB,3,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",20,S&P,SNP,9,Short Term,BSE,Uk,Automotive,2022-02-28,AA-,7,Stable outlook maintained,False,2022,2,2022-01-01
+SEC0064,Barnes PLC,10,Moody'S,MDY,7,Recovery,NSE,Usa,Finance,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0073,"Davis, Knox and Hall",10,Moody'S,MDY,7,Recovery,BSE,Singapore,Healthcare,2024-08-30,AA-,7,Upgraded due to strong quarterly earnings,True,2024,8,2022-01-01
+SEC0035,Moran Inc,10,Moody'S,MDY,7,Short Term,NYSE,India,Technology,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0045,Jones-Leach,30,Fitch,FTC,11,Short Term,NSE,India,Energy,2022-01-01,AA,8,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0032,"Bryant, Brady and Meza",20,S&P,SNP,9,Long Term,SGX,India,Automotive,2022-01-01,AA+,9,Improved financial stability,False,2022,1,2022-01-01
+SEC0019,Adams PLC,10,Moody'S,MDY,7,Long Term,LON,India,Healthcare,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0013,Williams Inc,10,Moody'S,MDY,7,Short Term,SGX,Germany,Finance,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0090,Goodman Group,10,Moody'S,MDY,7,Recovery,NSE,Singapore,Healthcare,2022-09-04,AA,8,Improved financial stability,True,2022,9,2022-01-01
+SEC0059,Bailey-Larson,30,Fitch,FTC,11,Viability,NYSE,Uk,Finance,2022-03-23,AA,8,Improved financial stability,True,2022,3,2022-01-01
+SEC0015,Moore PLC,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-08-29,B,2,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0071,Rogers-Nunez,20,S&P,SNP,9,Long Term,NSE,Uk,Automotive,2023-12-16,AA+,9,Improved financial stability,True,2023,12,2022-01-01
+SEC0098,Rivera PLC,30,Fitch,FTC,11,Long Term,LON,Usa,Technology,2023-05-04,AA+,9,Downgraded after debt increase,False,2023,5,2022-01-01
+SEC0019,Adams PLC,30,Fitch,FTC,11,Long Term,LON,India,Healthcare,2022-07-31,A+,6,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0060,Kelly Group,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2022-01-01,AA-,7,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0028,"Black, Harper and Cox",10,Moody'S,MDY,7,Recovery,NYSE,India,Automotive,2022-09-21,AAA,10,Decreased liquidity ratio,True,2022,9,2022-01-01
+SEC0029,"Rice, Perez and Calderon",20,S&P,SNP,9,Long Term,NSE,India,Technology,2022-12-09,BBB,4,Stable outlook maintained,False,2022,12,2022-01-01
+SEC0088,Anderson Group,10,Moody'S,MDY,7,Recovery,NYSE,India,Automotive,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0040,Fox Group,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2022-08-14,BBB,4,Improved financial stability,False,2022,8,2022-01-01
+SEC0012,"Brown, Newton and Mcconnell",30,Fitch,FTC,11,Short Term,BSE,Uk,Energy,2022-07-10,BBB,4,Stable outlook maintained,True,2022,7,2022-07-10
+SEC0018,Herrera-Walters,30,Fitch,FTC,11,Long Term,BSE,India,Automotive,2023-01-04,CCC,1,Improved financial stability,False,2023,1,2022-01-01
+SEC0020,Smith Ltd,10,Moody'S,MDY,7,Viability,BSE,Usa,Finance,2022-03-18,AA+,9,Upgraded due to strong quarterly earnings,False,2022,3,2022-01-01
+SEC0043,Dillon PLC,20,S&P,SNP,9,Recovery,BSE,India,Healthcare,2022-10-06,A,5,Downgraded after debt increase,False,2022,10,2022-01-01
+SEC0024,Hardy-Sims,30,Fitch,FTC,11,Long Term,SGX,Germany,Energy,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0041,Hansen LLC,20,S&P,SNP,9,Viability,NYSE,Singapore,Technology,2022-01-01,BB,3,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0082,Ballard and Sons,30,Fitch,FTC,11,Short Term,LON,Uk,Finance,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",20,S&P,SNP,9,Long Term,NSE,Singapore,Technology,2022-07-15,A+,6,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",20,S&P,SNP,9,Recovery,NSE,Uk,Automotive,2022-08-11,AA+,9,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",30,Fitch,FTC,11,Long Term,NSE,Singapore,Technology,2022-01-01,AA+,9,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",30,Fitch,FTC,11,Short Term,BSE,Uk,Automotive,2022-08-29,A,5,Improved financial stability,False,2022,8,2022-01-01
+SEC0013,Williams Inc,30,Fitch,FTC,11,Short Term,SGX,Germany,Finance,2022-01-01,AA,8,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",10,Moody'S,MDY,7,Recovery,NYSE,Usa,Technology,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0040,Fox Group,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0083,Curtis PLC,20,S&P,SNP,9,Short Term,SGX,Uk,Automotive,2022-01-01,CCC,1,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",30,Fitch,FTC,11,Long Term,NSE,Singapore,Technology,2024-12-22,A+,6,Decreased liquidity ratio,False,2024,12,2022-01-01
+SEC0070,Matthews LLC,20,S&P,SNP,9,Long Term,LON,India,Automotive,2022-04-12,AA+,9,Stable outlook maintained,False,2022,4,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",30,Fitch,FTC,11,Recovery,NSE,Uk,Automotive,2023-09-02,CCC,1,Stable outlook maintained,True,2023,9,2022-01-01
+SEC0021,Jones-Leonard,30,Fitch,FTC,11,Recovery,NYSE,Germany,Healthcare,2023-09-05,AA,8,Improved financial stability,True,2023,9,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",10,Moody'S,MDY,7,Recovery,NYSE,Usa,Technology,2025-06-26,AA+,9,Improved financial stability,True,2025,6,2022-01-01
+SEC0096,Collins PLC,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Finance,2022-07-19,AA-,7,Decreased liquidity ratio,False,2022,7,2022-01-01
+SEC0080,Rios-Bates,10,Moody'S,MDY,7,Short Term,NYSE,Singapore,Automotive,2022-07-29,B,2,Upgraded due to strong quarterly earnings,False,2022,7,2022-01-01
+SEC0085,Wilson-Robbins,10,Moody'S,MDY,7,Recovery,BSE,Germany,Automotive,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0096,Collins PLC,20,S&P,SNP,9,Short Term,SGX,Singapore,Finance,2022-04-19,AAA,10,Upgraded due to strong quarterly earnings,False,2022,4,2022-01-01
+SEC0061,Garcia-Garcia,10,Moody'S,MDY,7,Viability,BSE,Germany,Automotive,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0088,Anderson Group,30,Fitch,FTC,11,Recovery,NYSE,India,Automotive,2022-07-16,BBB,4,Improved financial stability,False,2022,7,2022-07-16
+SEC0081,"Daugherty, Walters and Haas",10,Moody'S,MDY,7,Long Term,NSE,Singapore,Technology,2022-09-20,BB,3,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0038,Rodriguez-Zimmerman,30,Fitch,FTC,11,Short Term,NSE,Uk,Energy,2022-09-22,A,5,Downgraded after debt increase,True,2022,9,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",30,Fitch,FTC,11,Long Term,NSE,Germany,Healthcare,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",30,Fitch,FTC,11,Long Term,LON,India,Finance,2022-09-04,B,2,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0049,West-Mullen,30,Fitch,FTC,11,Viability,LON,Uk,Energy,2022-07-27,CCC,1,Decreased liquidity ratio,True,2022,7,2022-01-01
+SEC0027,Patterson-Nguyen,10,Moody'S,MDY,7,Short Term,SGX,Germany,Automotive,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0086,Miller and Sons,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-09-25,AA-,7,Stable outlook maintained,True,2022,9,2022-01-01
+SEC0043,Dillon PLC,30,Fitch,FTC,11,Recovery,BSE,India,Healthcare,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0048,Clay Ltd,30,Fitch,FTC,11,Long Term,BSE,Singapore,Automotive,2023-01-02,B,2,Upgraded due to strong quarterly earnings,False,2023,1,2022-01-01
+SEC0079,Reyes-Garza,20,S&P,SNP,9,Viability,SGX,Uk,Automotive,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0011,Gibson-Moore,20,S&P,SNP,9,Long Term,BSE,Usa,Technology,2022-11-11,A+,6,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",30,Fitch,FTC,11,Viability,NYSE,Singapore,Finance,2022-04-01,BB,3,Decreased liquidity ratio,False,2022,4,2022-01-01
+SEC0023,Brown-Lloyd,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2022-01-01,AA-,7,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2022-08-14,A,5,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0059,Bailey-Larson,30,Fitch,FTC,11,Viability,NYSE,Uk,Finance,2022-01-01,A,5,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",10,Moody'S,MDY,7,Recovery,NYSE,Uk,Healthcare,2022-01-01,AA,8,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0037,"Hill, Rios and Bryant",30,Fitch,FTC,11,Recovery,NSE,Uk,Technology,2022-01-01,A+,6,Improved financial stability,False,2022,1,2022-01-01
+SEC0078,Meadows-Christensen,30,Fitch,FTC,11,Short Term,SGX,Singapore,Automotive,2023-11-12,AA-,7,Stable outlook maintained,True,2023,11,2022-01-01
+SEC0064,Barnes PLC,10,Moody'S,MDY,7,Recovery,NSE,Usa,Finance,2022-07-04,BBB,4,Stable outlook maintained,True,2022,7,2022-01-01
+SEC0089,Trevino-Wilson,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-07-18,CCC,1,Improved financial stability,False,2022,7,2022-01-01
+SEC0023,Brown-Lloyd,20,S&P,SNP,9,Short Term,BSE,India,Automotive,2022-06-24,BB,3,Improved financial stability,False,2022,6,2022-01-01
+SEC0078,Meadows-Christensen,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Automotive,2022-05-06,A,5,Downgraded after debt increase,False,2022,5,2022-01-01
+SEC0083,Curtis PLC,20,S&P,SNP,9,Short Term,SGX,Uk,Automotive,2022-05-22,AA+,9,Improved financial stability,False,2022,5,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",20,S&P,SNP,9,Recovery,NYSE,Uk,Healthcare,2023-12-20,BBB,4,Stable outlook maintained,True,2023,12,2022-01-01
+SEC0031,Moore-Bullock,30,Fitch,FTC,11,Long Term,SGX,India,Energy,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",30,Fitch,FTC,11,Recovery,NYSE,Usa,Technology,2024-08-12,AAA,10,Stable outlook maintained,False,2024,8,2022-01-01
+SEC0040,Fox Group,30,Fitch,FTC,11,Viability,SGX,Uk,Healthcare,2022-11-21,AA+,9,Decreased liquidity ratio,True,2022,11,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",30,Fitch,FTC,11,Viability,LON,Uk,Finance,2022-12-05,A,5,Stable outlook maintained,False,2022,12,2022-10-04
+SEC0068,Moran-Stanley,10,Moody'S,MDY,7,Short Term,BSE,Usa,Energy,2023-03-05,AAA,10,Decreased liquidity ratio,True,2023,3,2022-01-01
+SEC0035,Moran Inc,30,Fitch,FTC,11,Short Term,NYSE,India,Technology,2022-09-22,B,2,Decreased liquidity ratio,True,2022,9,2022-01-01
+SEC0026,Hernandez Inc,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2022-04-08,A+,6,Downgraded after debt increase,True,2022,4,2022-01-01
+SEC0071,Rogers-Nunez,10,Moody'S,MDY,7,Long Term,NSE,Uk,Automotive,2022-01-01,BBB,4,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0061,Garcia-Garcia,10,Moody'S,MDY,7,Viability,BSE,Germany,Automotive,2023-04-17,AAA,10,Upgraded due to strong quarterly earnings,False,2023,4,2022-01-01
+SEC0061,Garcia-Garcia,20,S&P,SNP,9,Viability,BSE,Germany,Automotive,2022-07-03,AA+,9,Downgraded after debt increase,True,2022,7,2022-01-01
+SEC0028,"Black, Harper and Cox",20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2023-11-30,BBB,4,Improved financial stability,False,2023,11,2022-01-01
+SEC0038,Rodriguez-Zimmerman,10,Moody'S,MDY,7,Short Term,NSE,Uk,Energy,2022-04-13,AAA,10,Improved financial stability,False,2022,4,2022-01-01
+SEC0038,Rodriguez-Zimmerman,30,Fitch,FTC,11,Short Term,NSE,Uk,Energy,2022-12-07,BB,3,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0022,"Allen, Wood and Young",10,Moody'S,MDY,7,Long Term,NSE,Uk,Technology,2025-06-14,BBB,4,Stable outlook maintained,True,2025,6,2022-01-01
+SEC0098,Rivera PLC,20,S&P,SNP,9,Long Term,LON,Usa,Technology,2024-07-21,B,2,Upgraded due to strong quarterly earnings,True,2024,7,2022-01-01
+SEC0085,Wilson-Robbins,30,Fitch,FTC,11,Recovery,BSE,Germany,Automotive,2022-06-17,AA+,9,Improved financial stability,False,2022,6,2022-01-01
+SEC0046,Macdonald-Chavez,20,S&P,SNP,9,Long Term,SGX,Germany,Healthcare,2022-06-03,AA,8,Upgraded due to strong quarterly earnings,True,2022,6,2022-01-01
+SEC0034,Booker-Elliott,30,Fitch,FTC,11,Recovery,NSE,Usa,Healthcare,2022-08-04,B,2,Stable outlook maintained,True,2022,8,2022-01-01
+SEC0049,West-Mullen,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-05-09,AA-,7,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",10,Moody'S,MDY,7,Recovery,NYSE,Usa,Technology,2022-05-23,B,2,Downgraded after debt increase,False,2022,5,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",20,S&P,SNP,9,Long Term,SGX,Uk,Energy,2023-08-10,AA,8,Improved financial stability,False,2023,8,2022-10-22
+SEC0076,"Wheeler, Berry and Gardner",10,Moody'S,MDY,7,Long Term,LON,India,Finance,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0033,Watson-Chang,30,Fitch,FTC,11,Recovery,BSE,Singapore,Technology,2022-10-08,AA-,7,Upgraded due to strong quarterly earnings,True,2022,10,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",20,S&P,SNP,9,Recovery,NSE,Uk,Automotive,2022-01-01,A,5,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0060,Kelly Group,30,Fitch,FTC,11,Viability,SGX,Germany,Automotive,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0090,Goodman Group,20,S&P,SNP,9,Recovery,NSE,Singapore,Healthcare,2022-05-12,BBB,4,Upgraded due to strong quarterly earnings,True,2022,5,2022-01-01
+SEC0084,"Solis, Hutchinson and Morris",30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-05-25,B,2,Stable outlook maintained,False,2022,5,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",30,Fitch,FTC,11,Recovery,NYSE,Usa,Technology,2022-01-01,B,2,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0096,Collins PLC,20,S&P,SNP,9,Short Term,SGX,Singapore,Finance,2023-06-13,AA+,9,Improved financial stability,True,2023,6,2022-01-01
+SEC0054,Crawford Inc,30,Fitch,FTC,11,Short Term,SGX,Uk,Energy,2023-06-23,BB,3,Upgraded due to strong quarterly earnings,False,2023,6,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",10,Moody'S,MDY,7,Viability,NYSE,Singapore,Finance,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0056,Smith-Galloway,30,Fitch,FTC,11,Long Term,LON,Singapore,Healthcare,2023-08-02,B,2,Stable outlook maintained,False,2023,8,2022-01-01
+SEC0075,Foster-Adams,30,Fitch,FTC,11,Recovery,BSE,Germany,Healthcare,2022-01-01,BB,3,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0009,Anderson LLC,10,Moody'S,MDY,7,Recovery,BSE,Uk,Energy,2022-12-27,A+,6,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0024,Hardy-Sims,10,Moody'S,MDY,7,Long Term,SGX,Germany,Energy,2022-05-31,BBB,4,Upgraded due to strong quarterly earnings,False,2022,5,2022-01-01
+SEC0067,Poole LLC,20,S&P,SNP,9,Recovery,SGX,Uk,Technology,2022-01-01,AA-,7,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0092,"Mcfarland, Andersen and Foster",20,S&P,SNP,9,Short Term,SGX,Singapore,Automotive,2022-06-27,BB,3,Stable outlook maintained,True,2022,6,2022-01-01
+SEC0016,Ingram Inc,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2024-07-05,CCC,1,Improved financial stability,True,2024,7,2022-01-01
+SEC0051,Rogers LLC,20,S&P,SNP,9,Viability,BSE,Usa,Automotive,2022-01-01,AA+,9,Improved financial stability,False,2022,1,2022-01-01
+SEC0004,Wallace-Collins,10,Moody'S,MDY,7,Viability,SGX,Germany,Finance,2022-02-05,AA+,9,Stable outlook maintained,False,2022,2,2022-02-05
+SEC0053,Brandt-Harper,20,S&P,SNP,9,Long Term,LON,Germany,Healthcare,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0017,Brown Inc,20,S&P,SNP,9,Viability,NSE,Germany,Healthcare,2022-09-20,A,5,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0063,Wood-Stewart,30,Fitch,FTC,11,Short Term,NSE,Singapore,Energy,2022-01-01,BBB,4,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0094,"Anderson, Cardenas and Rodriguez",10,Moody'S,MDY,7,Viability,LON,Uk,Finance,2022-01-01,A+,6,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0090,Goodman Group,30,Fitch,FTC,11,Recovery,NSE,Singapore,Healthcare,2022-03-10,AAA,10,Improved financial stability,True,2022,3,2022-01-01
+SEC0089,Trevino-Wilson,20,S&P,SNP,9,Viability,LON,Uk,Energy,2024-03-12,A+,6,Improved financial stability,False,2024,3,2022-01-01
+SEC0048,Clay Ltd,10,Moody'S,MDY,7,Long Term,BSE,Singapore,Automotive,2022-01-01,A+,6,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0070,Matthews LLC,10,Moody'S,MDY,7,Long Term,LON,India,Automotive,2023-09-29,AA-,7,Stable outlook maintained,True,2023,9,2022-01-01
+SEC0085,Wilson-Robbins,10,Moody'S,MDY,7,Recovery,BSE,Germany,Automotive,2025-09-26,AAA,10,Upgraded due to strong quarterly earnings,True,2025,9,2022-01-01
+SEC0009,Anderson LLC,30,Fitch,FTC,11,Recovery,BSE,Uk,Energy,2022-10-22,A+,6,Improved financial stability,False,2022,10,2022-01-01
+SEC0055,Castro Ltd,30,Fitch,FTC,11,Short Term,SGX,Singapore,Healthcare,2022-01-01,BBB,4,Improved financial stability,False,2022,1,2022-01-01
+SEC0024,Hardy-Sims,10,Moody'S,MDY,7,Long Term,SGX,Germany,Energy,2022-10-14,B,2,Downgraded after debt increase,False,2022,10,2022-01-01
+SEC0070,Matthews LLC,30,Fitch,FTC,11,Long Term,LON,India,Automotive,2024-01-24,AA,8,Stable outlook maintained,False,2024,1,2022-01-01
+SEC0082,Ballard and Sons,20,S&P,SNP,9,Short Term,LON,Uk,Finance,2022-04-08,CCC,1,Decreased liquidity ratio,True,2022,4,2022-01-01
+SEC0056,Smith-Galloway,20,S&P,SNP,9,Long Term,LON,Singapore,Healthcare,2023-02-09,A,5,Stable outlook maintained,True,2023,2,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",30,Fitch,FTC,11,Viability,NYSE,Singapore,Finance,2022-01-01,AA-,7,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0045,Jones-Leach,20,S&P,SNP,9,Short Term,NSE,India,Energy,2022-08-10,AA-,7,Improved financial stability,False,2022,8,2022-08-10
+SEC0084,"Solis, Hutchinson and Morris",30,Fitch,FTC,11,Short Term,NYSE,Uk,Automotive,2022-08-31,BBB,4,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0054,Crawford Inc,20,S&P,SNP,9,Short Term,SGX,Uk,Energy,2022-09-02,AA-,7,Decreased liquidity ratio,True,2022,9,2022-01-01
+SEC0081,"Daugherty, Walters and Haas",30,Fitch,FTC,11,Long Term,NSE,Singapore,Technology,2023-05-14,AA-,7,Decreased liquidity ratio,False,2023,5,2022-01-01
+SEC0098,Rivera PLC,30,Fitch,FTC,11,Long Term,LON,Usa,Technology,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0020,Smith Ltd,20,S&P,SNP,9,Viability,BSE,Usa,Finance,2022-09-05,B,2,Upgraded due to strong quarterly earnings,False,2022,9,2022-09-05
+SEC0039,Nelson Inc,20,S&P,SNP,9,Viability,NYSE,India,Energy,2022-09-08,AA,8,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0075,Foster-Adams,20,S&P,SNP,9,Recovery,BSE,Germany,Healthcare,2023-07-09,A,5,Downgraded after debt increase,True,2023,7,2022-01-01
+SEC0083,Curtis PLC,10,Moody'S,MDY,7,Short Term,SGX,Uk,Automotive,2022-02-04,CCC,1,Decreased liquidity ratio,False,2022,2,2022-01-01
+SEC0040,Fox Group,10,Moody'S,MDY,7,Viability,SGX,Uk,Healthcare,2022-01-01,AA+,9,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0072,Butler-Newton,30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2024-03-03,BB,3,Upgraded due to strong quarterly earnings,True,2024,3,2022-01-01
+SEC0089,Trevino-Wilson,20,S&P,SNP,9,Viability,LON,Uk,Energy,2022-11-01,AA,8,Upgraded due to strong quarterly earnings,True,2022,11,2022-01-01
+SEC0021,Jones-Leonard,30,Fitch,FTC,11,Recovery,NYSE,Germany,Healthcare,2022-02-06,CCC,1,Upgraded due to strong quarterly earnings,False,2022,2,2022-01-01
+SEC0001,Guerra Inc,20,S&P,SNP,9,Short Term,LON,India,Finance,2022-02-13,B,2,Decreased liquidity ratio,False,2022,2,2022-01-01
+SEC0073,"Davis, Knox and Hall",10,Moody'S,MDY,7,Recovery,BSE,Singapore,Healthcare,2022-07-10,AA,8,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",20,S&P,SNP,9,Recovery,NYSE,Usa,Technology,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0095,"Wheeler, Norman and Rodriguez",10,Moody'S,MDY,7,Recovery,NSE,Uk,Automotive,2022-06-07,AA+,9,Upgraded due to strong quarterly earnings,False,2022,6,2022-01-01
+SEC0060,Kelly Group,10,Moody'S,MDY,7,Viability,SGX,Germany,Automotive,2024-06-28,AAA,10,Decreased liquidity ratio,False,2024,6,2022-01-01
+SEC0070,Matthews LLC,20,S&P,SNP,9,Long Term,LON,India,Automotive,2024-03-27,CCC,1,Stable outlook maintained,True,2024,3,2022-01-01
+SEC0053,Brandt-Harper,30,Fitch,FTC,11,Long Term,LON,Germany,Healthcare,2022-09-25,AA-,7,Upgraded due to strong quarterly earnings,False,2022,9,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",20,S&P,SNP,9,Recovery,LON,Germany,Healthcare,2022-08-23,AA+,9,Downgraded after debt increase,False,2022,8,2022-01-01
+SEC0096,Collins PLC,10,Moody'S,MDY,7,Short Term,SGX,Singapore,Finance,2023-05-11,A+,6,Upgraded due to strong quarterly earnings,False,2023,5,2022-01-01
+SEC0066,"Scott, Thomas and Cervantes",10,Moody'S,MDY,7,Viability,NYSE,Singapore,Finance,2022-09-26,A,5,Improved financial stability,False,2022,9,2022-01-01
+SEC0010,Barton Group,10,Moody'S,MDY,7,Short Term,NYSE,Uk,Energy,2022-10-08,A+,6,Improved financial stability,False,2022,10,2022-01-01
+SEC0076,"Wheeler, Berry and Gardner",30,Fitch,FTC,11,Long Term,LON,India,Finance,2022-02-02,AA-,7,Decreased liquidity ratio,False,2022,2,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",20,S&P,SNP,9,Recovery,LON,Germany,Healthcare,2022-11-09,B,2,Improved financial stability,True,2022,11,2022-01-01
+SEC0056,Smith-Galloway,20,S&P,SNP,9,Long Term,LON,Singapore,Healthcare,2022-11-15,CCC,1,Stable outlook maintained,False,2022,11,2022-01-01
+SEC0040,Fox Group,20,S&P,SNP,9,Viability,SGX,Uk,Healthcare,2025-03-10,AA-,7,Upgraded due to strong quarterly earnings,True,2025,3,2022-01-01
+SEC0049,West-Mullen,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2025-11-25,BBB,4,Upgraded due to strong quarterly earnings,True,2025,11,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",20,S&P,SNP,9,Short Term,NSE,Uk,Automotive,2022-01-01,AA,8,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0003,"Clark, Martin and Wright",30,Fitch,FTC,11,Short Term,NYSE,Singapore,Energy,2022-02-24,AA+,9,Decreased liquidity ratio,False,2022,2,2022-01-01
+SEC0088,Anderson Group,20,S&P,SNP,9,Recovery,NYSE,India,Automotive,2022-04-13,A+,6,Improved financial stability,False,2022,4,2022-01-01
+SEC0074,Moyer PLC,10,Moody'S,MDY,7,Viability,SGX,Uk,Automotive,2022-11-25,BBB,4,Stable outlook maintained,True,2022,11,2022-01-01
+SEC0080,Rios-Bates,20,S&P,SNP,9,Short Term,NYSE,Singapore,Automotive,2022-06-16,B,2,Improved financial stability,False,2022,6,2022-01-01
+SEC0020,Smith Ltd,10,Moody'S,MDY,7,Viability,BSE,Usa,Finance,2022-01-01,AA-,7,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",10,Moody'S,MDY,7,Viability,BSE,Uk,Energy,2022-05-20,B,2,Downgraded after debt increase,False,2022,5,2022-01-01
+SEC0003,"Clark, Martin and Wright",20,S&P,SNP,9,Short Term,NYSE,Singapore,Energy,2022-06-15,AA,8,Decreased liquidity ratio,False,2022,6,2022-01-01
+SEC0093,"Mccormick, Greene and Phillips",10,Moody'S,MDY,7,Short Term,BSE,Uk,Automotive,2022-07-30,CCC,1,Stable outlook maintained,False,2022,7,2022-01-01
+SEC0023,Brown-Lloyd,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0048,Clay Ltd,20,S&P,SNP,9,Long Term,BSE,Singapore,Automotive,2022-01-01,AAA,10,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0073,"Davis, Knox and Hall",20,S&P,SNP,9,Recovery,BSE,Singapore,Healthcare,2022-03-30,CCC,1,Decreased liquidity ratio,False,2022,3,2022-03-30
+SEC0038,Rodriguez-Zimmerman,20,S&P,SNP,9,Short Term,NSE,Uk,Energy,2022-01-01,A,5,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0029,"Rice, Perez and Calderon",10,Moody'S,MDY,7,Long Term,NSE,India,Technology,2022-02-23,A,5,Improved financial stability,False,2022,2,2022-01-01
+SEC0041,Hansen LLC,30,Fitch,FTC,11,Viability,NYSE,Singapore,Technology,2022-12-01,B,2,Downgraded after debt increase,False,2022,12,2022-01-01
+SEC0065,"Rodriguez, Green and Shaw",20,S&P,SNP,9,Recovery,NYSE,Uk,Healthcare,2022-01-01,BBB,4,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0039,Nelson Inc,20,S&P,SNP,9,Viability,NYSE,India,Energy,2022-01-01,AAA,10,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0058,Rosales Group,20,S&P,SNP,9,Viability,SGX,Singapore,Automotive,2023-02-27,A+,6,Stable outlook maintained,False,2023,2,2022-01-01
+SEC0049,West-Mullen,10,Moody'S,MDY,7,Viability,LON,Uk,Energy,2022-01-01,BB,3,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0014,"Gates, Hernandez and Hernandez",20,S&P,SNP,9,Viability,BSE,Uk,Energy,2022-05-12,AA,8,Improved financial stability,True,2022,5,2022-01-01
+SEC0007,James and Sons,10,Moody'S,MDY,7,Viability,SGX,Singapore,Energy,2022-08-25,A,5,Improved financial stability,False,2022,8,2022-01-01
+SEC0046,Macdonald-Chavez,20,S&P,SNP,9,Long Term,SGX,Germany,Healthcare,2022-01-01,B,2,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0062,"Estrada, Garcia and Williams",30,Fitch,FTC,11,Recovery,NYSE,Usa,Technology,2023-08-08,BBB,4,Downgraded after debt increase,False,2023,8,2022-01-01
+SEC0013,Williams Inc,20,S&P,SNP,9,Short Term,SGX,Germany,Finance,2022-08-28,A,5,Downgraded after debt increase,True,2022,8,2022-01-01
+SEC0100,"Lee, Schaefer and Sutton",10,Moody'S,MDY,7,Long Term,SGX,Uk,Energy,2022-01-01,A+,6,Downgraded after debt increase,False,2022,1,2022-01-01
+SEC0050,Matthews Inc,30,Fitch,FTC,11,Recovery,SGX,Germany,Energy,2024-12-04,AA,8,Upgraded due to strong quarterly earnings,False,2024,12,2022-01-01
+SEC0080,Rios-Bates,20,S&P,SNP,9,Short Term,NYSE,Singapore,Automotive,2022-01-01,A+,6,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0099,"Benjamin, Brown and Evans",10,Moody'S,MDY,7,Long Term,NSE,Germany,Healthcare,2022-01-01,B,2,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0007,James and Sons,10,Moody'S,MDY,7,Viability,SGX,Singapore,Energy,2024-07-01,BB,3,Decreased liquidity ratio,False,2024,7,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",20,S&P,SNP,9,Viability,LON,Singapore,Finance,2022-01-01,A,5,Improved financial stability,False,2022,1,2022-01-01
+SEC0002,Gonzalez-Garza,20,S&P,SNP,9,Long Term,NSE,Usa,Energy,2022-01-01,AAA,10,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0016,Ingram Inc,10,Moody'S,MDY,7,Short Term,BSE,India,Automotive,2022-08-31,BBB,4,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0004,Wallace-Collins,20,S&P,SNP,9,Viability,SGX,Germany,Finance,2022-12-24,B,2,Stable outlook maintained,False,2022,12,2022-01-01
+SEC0048,Clay Ltd,20,S&P,SNP,9,Long Term,BSE,Singapore,Automotive,2023-11-13,A,5,Decreased liquidity ratio,True,2023,11,2022-01-01
+SEC0038,Rodriguez-Zimmerman,20,S&P,SNP,9,Short Term,NSE,Uk,Energy,2022-08-08,A+,6,Upgraded due to strong quarterly earnings,False,2022,8,2022-01-01
+SEC0019,Adams PLC,10,Moody'S,MDY,7,Long Term,LON,India,Healthcare,2022-08-04,BB,3,Decreased liquidity ratio,False,2022,8,2022-01-01
+SEC0072,Butler-Newton,30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2022-09-22,AA+,9,Decreased liquidity ratio,False,2022,9,2022-01-01
+SEC0021,Jones-Leonard,30,Fitch,FTC,11,Recovery,NYSE,Germany,Healthcare,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
+SEC0087,Campbell-Mayer,20,S&P,SNP,9,Short Term,BSE,Germany,Finance,2022-08-07,AA-,7,Upgraded due to strong quarterly earnings,True,2022,8,2022-01-01
+SEC0075,Foster-Adams,10,Moody'S,MDY,7,Recovery,BSE,Germany,Healthcare,2022-08-31,AA+,9,Improved financial stability,True,2022,8,2022-01-01
+SEC0005,"Mcdonald, Mcguire and Wyatt",30,Fitch,FTC,11,Short Term,NSE,Uk,Automotive,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0083,Curtis PLC,30,Fitch,FTC,11,Short Term,SGX,Uk,Automotive,2024-07-28,CCC,1,Stable outlook maintained,False,2024,7,2022-01-01
+SEC0033,Watson-Chang,30,Fitch,FTC,11,Recovery,BSE,Singapore,Technology,2022-01-01,AA-,7,Improved financial stability,False,2022,1,2022-01-01
+SEC0071,Rogers-Nunez,20,S&P,SNP,9,Long Term,NSE,Uk,Automotive,2022-01-01,AA,8,Improved financial stability,False,2022,1,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",10,Moody'S,MDY,7,Recovery,LON,Germany,Healthcare,2022-01-01,AA+,9,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",20,S&P,SNP,9,Recovery,LON,Germany,Healthcare,2022-10-01,AAA,10,Improved financial stability,False,2022,10,2022-01-01
+SEC0029,"Rice, Perez and Calderon",30,Fitch,FTC,11,Long Term,NSE,India,Technology,2022-01-01,BB,3,Upgraded due to strong quarterly earnings,False,2022,1,2022-01-01
+SEC0067,Poole LLC,30,Fitch,FTC,11,Recovery,SGX,Uk,Technology,2022-07-18,AA-,7,Downgraded after debt increase,False,2022,7,2022-01-01
+SEC0025,Johnson PLC,20,S&P,SNP,9,Viability,SGX,Usa,Healthcare,2022-06-27,BBB,4,Stable outlook maintained,False,2022,6,2022-01-01
+SEC0069,"Peterson, Johnston and Griffin",20,S&P,SNP,9,Recovery,LON,Germany,Healthcare,2024-01-27,A,5,Stable outlook maintained,False,2024,1,2022-01-01
+SEC0045,Jones-Leach,20,S&P,SNP,9,Short Term,NSE,India,Energy,2023-01-22,AA+,9,Upgraded due to strong quarterly earnings,False,2023,1,2022-08-10
+SEC0045,Jones-Leach,10,Moody'S,MDY,7,Short Term,NSE,India,Energy,2022-01-01,B,2,Decreased liquidity ratio,False,2022,1,2022-01-01
+SEC0027,Patterson-Nguyen,20,S&P,SNP,9,Short Term,SGX,Germany,Automotive,2022-01-01,BB,3,Stable outlook maintained,False,2022,1,2022-01-01
+SEC0077,"Jones, Gonzalez and Wood",30,Fitch,FTC,11,Viability,LON,Singapore,Finance,2022-08-17,BBB,4,Stable outlook maintained,False,2022,8,2022-01-01
+SEC0082,Ballard and Sons,20,S&P,SNP,9,Short Term,LON,Uk,Finance,2022-01-01,BB,3,Improved financial stability,False,2022,1,2022-01-01
